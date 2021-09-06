@@ -129,17 +129,17 @@ Un círculo puede agregar responsabilidades o dominios al rol líder de círculo
 Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol líder de círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol líder de círculo del círculo, mientras la delegación permanezca vigente.
 
 
-## Article 2: Rules of Cooperation
+## Artículo 2: Reglas de cooperación
 
-### 2.1 Duty of Transparency
+### 2.1 Deber de transparencia
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+Como socio/a, tiene el deber de brindar transparencia a los líderes de roles de la organización cuando lo soliciten, de la siguiente manera:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
+- **(a) Proyectos & Próximas acciones:** Debe compartir todos los proyectos y próximas acciones que esté haciendo seguimiento para la organización.
+- **(b) Prioridad relativa:** Debe compartir su juicio sobre la prioridad relativa de cualquiera de sus proyectos o próximas acciones frente a cualquier otra cosa que compita por su atención.
+- **(c) Pronóstico:** Debe proporcionar una pronósitco de cuándo espera completar cualquiera de sus proyectos o próximas acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
+- **(d) Ítems de verificación [checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como socio de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
+- **(e) Métricas📌:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
 - **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
 - **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
 
