@@ -11,46 +11,46 @@ La ORGANIZACIÓN puede designar a otros ***“SOCIOS”*** además de los RATIFI
 Cada SOCIO puede confiar en las autoridades otorgadas por esta CONSTITUCIÓN en la medida en que los RATIFICANTES tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un SOCIO o una SOCIA provienen de esta CONSTITUCIÓN y los resultados de sus procesos, y de cualquier deber legal que el SOCIO o la SOCIA tenga para con la ORGANIZACIÓN y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un SOCIO o una SOCIA, ni ningún dictado emitido fuera de la autoridad otorgada por esta CONSTITUCIÓN. 
 
 
-## Article 1: Organizational Structure
+## Artículo 1: Estructura organizativa
 
-### 1.1 Role Definition
+### 1.1 Definición de rol
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+Un *** “Rol” *** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la Organización. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
 
-A Role definition consists of a descriptive name and one or more of the following:
+Una definición de rol consta de un nombre descriptivo y uno o más de los siguientes elementos:
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **(a)** un ***“propósito”***, que es una capacidad, potencial o meta que el rol perseguirá o expresará.
+- **(b)** uno o más ***“dominios”***, que son activos, procesos u otras cosas que el rol puede controlar y regular exclusivamente como propiedad propia, para su propósito.
+- **(c)** una o más ***“responsabilidades”***, que son actividades en curso que el rol administrará y llevará a cabo al servicio de otros roles o para apoyar su propio propósito.
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+Un rol también puede contener reglas (en adelante ***“políticas”***), que son concesiones o restricciones de autoridad, o reglas especiales que se aplican dentro de ese rol.
 
-### 1.2 Responsibilities of Role Leads
+### 1.2 Responsabilidades de los líderes de roles
 
-As a Role Lead, you have the following responsibilities:
+Como líder de un rol, tiene las siguientes responsabilidades:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Procesamiento de tensiones
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+Usted es responsable de comparar la expresión actual del propósito y responsabilidades de su rol con su visión de su potencial ideal, para identificar brechas entre los dos (cada brecha es una ***"tensión"***). Usted es responsable de intentar resolver esas tensiones.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Procesamiento del propósito y las responsabilidades
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+Usted es responsable de considerar de forma periódico cómo implementar el propósito de su rol y cada responsabilidad, definiendo:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***“Próximas acciones”***, que son acciones útiles que podría tomar de inmediato, al menos en ausencia de prioridades en competencia; y
+- **(b)** ***“Proyectos”***, que son resultados específicos hacia los que sería útil trabajar, al menos en ausencia de prioridades en competencia.
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.3 Desglose de proyectos
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+Usted es responsable de definir regularmente las próximas acciones para cada uno de los proyectos activos de su Rol.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Seguimiento de proyectos, próximas acciones y tensiones
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y próximas acciones para su rol en listas escritas. También debe realizar un seguimiento de las tensiones que desea resolver, al menos hasta que las procese en proyectos o próximas acciones. También es responsable de revisar y actualizar periódicamente estas listas, para mantenerlas como una fuente confiable del trabajo potencial del rol.
 
-#### 1.2.5 Executing Next-Actions
+#### 1.2.5 Ejecución de próximas acciones
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas acciones que podría tomar y de ejecutar las que agreguen más valor a la ORGANIZACIÓN.
 
 ### 1.3 Circles
 
