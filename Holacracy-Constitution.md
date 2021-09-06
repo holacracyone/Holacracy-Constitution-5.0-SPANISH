@@ -70,9 +70,9 @@ Una vez que un rol controla un dominio, puede crear políticas que rijan ese dom
 
 El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo para controlar el gasto de dinero o activos, a menos que se especifique explícitamente.
 
-#### 1.3.3 Círculo de anclaje
+#### 1.3.3 Círculo de anclaje 
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy. El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia Organización controla, y no tiene un Supercírculo. El Anchor Circle puede cambiar su propio Propósito o aclarar sus propias Responsabilidades a través de una Política.
+The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy. El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El “círculo de anclaje” tiene todas las autoridades y los dominios que la propia Organización controla, y no tiene un Supercírculo. El Anchor Circle puede cambiar su propio Propósito o aclarar sus propias Responsabilidades a través de una Política.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
