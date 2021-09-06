@@ -78,7 +78,7 @@ Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro
 
 #### 1.3.4 Vinculación con otros círculos
 
-Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súpercírculo del mismo lo invita.
+Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súper-círculo del mismo lo invita.
 
 Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede agregar asignaciones al rol y luego cambiar lo que agrega. Sin embargo, no puede eliminar el rol ni cambiar nada agregado por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que agregue. La autoridad para agregar o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
 
@@ -228,94 +228,94 @@ Una política puede cambiar este proceso de cualquier manera o autorizar directa
 
 ### 4.2 Autoridad de interpretación
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+Como socio/a, puede usar su juicio razonable para interpretar esta Constitución y cualquier cosa bajo su autoridad. Además, puede interpretar cómo se aplican en cualquier situación específica que enfrente y actuar en función de sus interpretaciones. Sin embargo, debe interpretar toda la gobernanza en el contexto del propósito y responsabilidades del círculo que lo contiene, y dentro de cualquier resolución de interpretación oficial de ese círculo o cualquier súper-círculo del mismo. No puede utilizar interpretaciones que entren en conflicto con ese contexto o esas normas.
 
-#### 4.2.1 Conflicts of Interpretation
+#### 4.2.1 Conflictos de interpretación
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+Como socio/a, su interpretación de esta Constitución y la gobernanza de la Organización a veces puede entrar en conflicto con la de otro/a socio/a. Cuando eso suceda, cualquiera de las partes puede pedirle al secretario/a de cualquier círculo afectado que decida qué interpretación utilizar, y el/la secretario/a es responsable de interpretar la Constitución y todo lo que esté bajo su autoridad cuando lo solicite. Después de que un/a secretario/a responde, todos deben alinearse con la decisión de ese/a secretario/a hasta que el texto o contexto relevante cambie.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+Después de pronunciarse sobre una interpretación, un/a secretario/a puede publicar la decisión y la lógica detrás de ella. Si se publica, el/la Secretario/a de ese círculo y cualquier círculo contenido deben intentar alinearse con esa lógica en cualquier fallo futuro. Sin embargo, un/a secretario/a aún puede contradecirlo una vez que una nueva circunstancia apremiante haga que la lógica sea obsoleta.
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+Puede apelar la interpretación de un/a secretario/a ante el/al secretario/a de cualquier supercírculo. Un/a Secretario/a de super-círculo puede anular la interpretación de cualquier secretario/a de sub-círculo.
 
-#### 4.2.2 Striking Invalid Governance
+#### 4.2.2 Derogando gobernanza inválida
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+Cualquier socio/a puede solicitar al secretario de un círculo que se pronuncie sobre la validez de cualquier gobernanza dentro de ese círculo o cualquier sub-círculo del mismo. Si el/la secretario/a concluye que viola las reglas de esta Constitución, el/la secretario/a debe eliminarlo de los registros del Círculo. Después de hacerlo, el/la secretario/a debe comunicar rápidamente lo que eliminó y por qué a todos los socios que desempeñan roles dentro de ese círculo.
 
-### 4.3 Individual Initiative
+### 4.3 Iniciativa individual
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+Como socio/a, en algunos casos está autorizado a tomar ***“iniciativa individual”*** actuando más allá de la autoridad de sus roles o infringiendo las reglas de esta Constitución.
 
-#### 4.3.1 Allowed Situations
+#### 4.3.1 Situaciones permitidas
 
-You may only take Individual Initiative when all of the following are true:
+Solo puede tomar la iniciativa individual cuando se cumplan todas las condiciones siguientes:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+- **(a)** Está actuando de buena fe para cumplir el propósito o expresar las responsabilidades de algún rol dentro de la Organización.
+- **(b)** Cree que su acción resolvería o evitaría más tensión para la Organización de la que probablemente crearía.
+- **(c)** Su acción no comprometerá a la Organización a gastar más de lo que ya está autorizado a gastar.
+- **(d)** Si su acción viola alguna política o dominio, cree que se perderá mucho valor si se demora en obtener el permiso o cambiar la gobernanza.
 
-#### 4.3.2 Communication & Restoration
+#### 4.3.2 Comunicación y restauración
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+Al tomar la iniciativa individual, debe explicar su acción a cualquier líder de rol que crea que puede verse afectado de manera significativa. A petición de cualquiera de dichos líderes de rol, debe tomar más acciones para ayudar a resolver las tensiones creadas por su iniciativa individual. Si se lo solicita dicho líder de rol, debe abstenerse de tomar una iniciativa individual similar en el futuro.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+Debe priorizar la comunicación y restauración requeridas en esta sección sobre su trabajo habitual. Sin embargo, un líder de círculo de un círculo que contenga todos los roles afectados por su acción puede cambiar esta prioridad predeterminada.
 
 
-## Article 5: Governance Process
+## Artículo 5: Proceso de gobernanza
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+Cambiar la gobernanza de un círculo requiere utilizar el ***“proceso de gobernanza”*** definido aquí.
 
-### 5.1 Governance Participants
+### 5.1 Participantes de la gobernanza
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+Cada círculo tiene un grupo de ***"miembros del círculo"*** que pueden representar sus roles en su proceso de gobernanza.
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+Los miembros de un círculo son los socios que cumplen su función de líder de círculo, así como cada socio que actúa como líder de un rol en el círculo. Si un rol tiene varios líderes, un círculo puede adoptar una política para limitar cuántos de ellos representan ese rol como miembros del círculo en su proceso de gobernanza.
 
-#### 5.1.1 Circle Reps
+#### 5.1.1 Representantes de círculo
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+Cualquier miembro de un círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como el ***"representante de círculo"*** del círculo para ayudar a representar ese círculo dentro de cualquier círculo más amplio que lo contenga. El representante de círculo seleccionado llena un ***"rol de representante de círculo"*** en el Círculo, con un propósito de "Las tensiones relevantes para procesar en un círculo más amplio canalizadas y resueltas", y las siguientes responsabilidades:
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+- **(a)** Buscando comprender las tensiones transmitidas por los líderes de roles dentro del círculo.
+- **(b)** Discerniendo cuáles son las tensiones apropiadas a procesar dentro de un círculo más amplio que contiene el círculo.
+- **(c)** Procesando tensiones dentro de un círculo más amplio para eliminar restricciones en el círculo.
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un representante de círculo, a menos que una política defina un proceso alternativo. No más de una persona puede servir como representante de círculo de un círculo a la vez, a menos que la política de un círculo que lo contenga lo permita.
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+El/La representante de círculo seleccionado/a se convierte en miembro de círculo de cualquier círculo que contenga ese círculo, con la autoridad para representar su círculo como un líder de círculo. Un círculo contenedor puede limitar o evitar que estos representantes del círculo se conviertan en miembros del círculo a través de una política, pero solo si sus roles tienen otra forma de disfrutar de una representación comparable dentro de ese círculo.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+Un círculo puede agregar responsabilidades o dominios a su propio rol de representante de círculo, así como modificar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito del rol, ni ninguna responsabilidad impuesta al rol por esta Constitución.
 
-#### 5.1.2 Facilitator & Secretary
+#### 5.1.2 Facilitador/a & Secretario/a
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+El/La facilitador/a del círculo es responsable de facilitar su proceso de gobernanza. El/La secretario/a del círculo es responsable de capturar y publicar los resultados de su proceso de gobernanza y tiene un dominio sobre los registros de gobernanza del círculo.
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+Cualquier miembro de círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como facilitador/a o secretario/a del círculo. El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un/a facilitador/a o secretario/a. Ningún rol o política puede asignar el rol de facilitador/a o el rol de secretario/a o eliminar una asignación por cualquier otro medio, ni cambiar este proceso requerido. Normalmente, los únicos candidatos elegibles para esta elección son los miembros de un círculo. Sin embargo, una política del círculo o cualquier super-círculo puede agregar o limitar candidatos elegibles.
 
-### 5.2 Scope of Governance
+### 5.2 Alcance de la gobernanza
 
-Within a Circle's Governance Process, its Circle Members may:
+Dentro del proceso de gobernanza de un círculo, sus miembros del círculo pueden:
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+- **(a)** definir, modificar o eliminar los roles del círculo; y
+- **(b)** definir, modificar o eliminar las políticas del círculo; y
+- **(c)** mover los propios roles o políticas del círculo a un sub-círculo o cualquier subcírculo del mismo, pero solo si promulgan el propósito o las responsabilidades de ese subcírculo; y
+- **(d)** mover roles o políticas desde dentro de un sub-círculo o cualquier sub-círculo del mismo al círculo, pero solo si ya no son relevantes para promulgar el propósito o responsabilidades de ese subcírculo; y
+- **(e)** celebrar elecciones para cualquier rol elegido dentro del círculo.
 
-No other decisions are valid outputs from a Circle's Governance Process.
+Ninguna otra decisión es un resultado válido del proceso de gobernanza de un círculo.
 
-#### 5.2.1 Scope of Policy
+#### 5.2.1 Alcance de una política
 
-A Policy may only be one or more of the following:
+Una póliza solo puede ser uno o más de los siguientes casos:
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+- **(a)** una restricción sobre la autoridad de uno o más de los roles contenidos en el círculo; o
+- **(b)** una concesión de una autoridad que el círculo o el líder del círculo tiene a uno o más roles; o
+- **(c)** una concesión de autoridad que permite a las personas o los roles no están autorizados a controlar o afectar uno de los dominios del círculo, o una restricción sobre cómo pueden hacerlo cuando estén autorizados ; o
+- **(d)** una regla que cambia una regla o proceso predeterminado en esta Constitución, si ese cambio se permite explícitamente.
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+Una Política que otorga o restringe la autoridad también se aplica en todos los sub-círculos, de manera recurrente, a menos que se indique lo contrario. Una política que cambia una regla o proceso predeterminado en esta Constitución se aplica solo dentro del círculo que contiene la política o, si se indica explícitamente, también dentro de todos los sub-círculos, de manera recurrente. En el último caso, un sub-círculo aún puede anular esa política a través de uno de las suyas, a menos que se prohíba explícitamente en la política original.
 
-### 5.3 Changing Governance
+### 5.3 Cambiando la gobernanza
 
 Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
 
