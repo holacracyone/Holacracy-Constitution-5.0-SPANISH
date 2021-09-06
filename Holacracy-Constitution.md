@@ -138,7 +138,7 @@ Como socio/a, tiene el deber de brindar transparencia a los líderes de roles de
 - **(a) Proyectos & Próximas acciones:** Debe compartir todos los proyectos y próximas acciones que esté haciendo seguimiento para la organización.
 - **(b) Prioridad relativa:** Debe compartir su juicio sobre la prioridad relativa de cualquiera de sus proyectos o próximas acciones frente a cualquier otra cosa que compita por su atención.
 - **(c) Pronóstico:** Debe proporcionar una pronósitco de cuándo espera completar cualquiera de sus proyectos o próximas acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
-- **(d) Ítems de verificación [checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como socio de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
+- **(d) Ítems de las listas de verificación 📌[checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como socio de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
 - **(e) Métricas📌:** Debe compartir las métricas que recopile en sus roles o como socio/a de la organización. Si se le solicita, debe continuar compartiendo estas métricas con regularidad, hasta que determine que ya no son útiles.
 - **(f) Novedades de progreso:** Debe compartir un resumen del progreso que ha realizado en sus roles o hacia cualquiera de sus proyectos desde la última actualización que compartió. Si se le solicita, debe continuar compartiendo estas actualizaciones con regularidad, hasta que determine que ya no son útiles.
 - **(g) Otra información:** Debe compartir cualquier otra información que esté disponible para usted y que no cause daño al compartirla.
@@ -171,62 +171,62 @@ Como socio/a, puede solicitar un acuerdo relacional de otro/a socio/a para sus p
 Como socio/a, tiene el deber de alinear su comportamiento con cualquier acuerdo relacional por escrito que haya realizado. Cualquiera que facilite una reunión o proceso para la Organización también puede hacer cumplir estos acuerdos relacionales durante esa reunión o proceso, siempre que no entren en conflicto con nada definido en esta Constitución.
 
 
-## Article 3: Tactical Meetings
+## Artículo 3: Reuniones tácticas
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+Cualquier socio/a puede convocar una ***“reunión táctica”*** para ayudar a los socios a involucrarse en las responsabilidades y deberes propias y de los demás. Además, el/la secretario/a de cada círculo es responsable de programar reuniones tácticas periódicas para el círculo.
 
-### 3.1 Attendance
+### 3.1 Asistencia
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+Para las reuniones tácticas regulares convocadas por el/la secretario/a de un círculo, se invita a todos los roles del círculo a menos que una política indique lo contrario. Para otras reuniones tácticas, el/la socio/a convocante de la reunión debe especificar los roles invitados a esa reunión. Luego, se invita a todos los socios que actúan como líderes de esos roles a asistir y representar esos roles, a menos que el convocante restrinja la invitación para incluir solo un subconjunto de líderes de roles para un rol.
 
-### 3.2 Meeting Process
+### 3.2 Proceso de reunión
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+El/La facilitador/a de un círculo es responsable de facilitar las reuniones tácticas regulares del círculo, y su secretario/a es responsable de registrar y publicar los resultados de las reuniones tácticas. Para las reuniones tácticas convocadas por alguien que no sea el/la secretario/a del círculo, el/la socio/a que convoque una reunión táctica debe facilitarla y anotar sus resultados, o designar a otra persona voluntaria o rol apropiado para hacerlo.
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+A menos que una política indique lo contrario, la persona que facilita la reunión debe utilizar el siguiente proceso:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Ronda de inicio:** Cada participante en su turno comparte su estado actual u ofrece otro comentario de apertura para la reunión. No se permiten respuestas.
+- **(b) Revisión de la lista de verificación:** Cada participante verifica si ha completado las acciones recurrentes de sus roles sobre las que informa regularmente en la reunión.
+- **(c) Revisión de métricas:** Cada participante comparte las métricas asociadas sus roles sobre las que informa regularmente en la reunión.
+- **(d) Novedades de progreso:** Cada participante destaca el progreso en cualquier proyecto u otra iniciativa sobre la que informan regularmente para sus roles en la reunión. Los participantes solo pueden compartir el progreso realizado desde un informe anterior, y no el estado general de ningún trabajo.
+- **(e) Generar la agenda:** Los participantes elaboran una agenda de temas para procesar dentro de la reunión. Cada participante puede agregar tantos puntos de la agenda como desee proporcionando una etiqueta corta para cada uno, sin que se permitan explicaciones ni discusiones. Los participantes pueden agregar más ítems a la agenda después de este paso, entre el procesamiento de cualquier elemento de la agenda existente.
+- **(f) Procesar ítems:** Para procesar cada ítem de la agenda, el/la propietario/a del ítem de la agenda puede hacer solicitudes a otro participante, ya sea en la capacidad general de ese participante como socio/a, o en un rol que el participante representa en la reunión. Sin embargo, las solicitudes para un rol solo se pueden realizar al servicio de un rol que el solicitante representa en la reunión. La persona que facilita la reunión administra el tiempo permitido para cada ítem de la agenda para dejar espacio para toda la agenda, y puede interrumpir el procesamiento de cualquier ítem después de su debido tiempo de reunión.
+- **(g) Ronda de cierre:** Cada participante a su vez comparte una reflexión final sobre la reunión. No se permiten respuestas.
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+Una política de un círculo puede especificar un proceso alternativo o enmendar este proceso predeterminado para reuniones tácticas convocadas por cualquiera de los roles del círculo.
 
 
-## Article 4: Distributed Authority
+## Artículo 4: Autoridad distribuida
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+Como líder de un rol, tiene la autoridad para emprender cualquier acción o tomar cualquier decisión para promover el propósito o las responsabilidades de su rol, siempre que no infrinja una regla definida en esta Constitución. Al priorizar y elegir entre sus acciones potenciales, puede usar su propio juicio razonable del valor relativo para la Organización de cada una.
 
-### 4.1 Constraints on Authority
+### 4.1 Restricciones a la autoridad
 
-As a Role Lead, you must honor the following constraints on your authority.
+Como líder de rol, debe respetar las siguientes limitaciones de su autoridad.
 
-#### 4.1.1 Don't Violate Policies
+#### 4.1.1 No viole las políticas
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+Mientras actúa en un rol, no puede violar ninguna política del rol en sí ni de ningún círculo que contenga el rol.
 
-#### 4.1.2 Get Permission Before Impacting Domains
+#### 4.1.2 Obtenga permiso antes de afectar dominios
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+Al servicio de su rol, tiene la autoridad para impactar y controlar los dominios de su rol.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+También puede afectar cualquier dominio en poder de un círculo que contenga su rol y no delegado adicionalmente, o cualquier dominio que tal círculo pueda afectar. Pero si cree que su impacto será considerablemente difícil o costoso de deshacer, necesita obtener permiso.
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+No puede ejercer control ni causar un impacto material en un dominio delegado a un rol o círculo que no contenga su rol, a menos que obtenga permiso. Tampoco puede hacerlo en un dominio propiedad de otra entidad soberana sin permiso.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+Cuando necesite permiso para afectar un dominio, puede obtenerlo de quien controle ese dominio. También puede obtener permiso al anunciar su intención de realizar una acción específica e invitar a cualquier persona con un dominio relevante a oponerse. Luego debe esperar un tiempo razonable para permitir respuestas. Si nadie se opone en ese tiempo, entonces tiene permiso para afectar cualquier dominio propiedad de cualquier rol en la Organización que alcanzó su anuncio. Puede suponer que un anuncio escrito ha llegado a cualquier persona que normalmente lee mensajes en el canal que utilizó. Cualquier permiso otorgado de esta manera solo se aplica mientras se realiza la acción específica que anunció. Una política puede cambiar o limitar este proceso.
 
-#### 4.1.3 Get Authorization Before Spending Money
+#### 4.1.3 Obtenga autorización antes de gastar dinero
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+No puede gastar dinero u otros activos a menos que primero esté autorizado para hacerlo. Esta autorización debe provenir de un rol que ya tenga el control de esos recursos con finalidad de su uso. Cuenta como gasto si dispone de una propiedad significativa de la Organización o limita significativamente alguno de sus derechos.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+Para obtener la autorización para gastar, debe anunciar su intención de gastar por escrito al rol del que solicita autorización. Debe compartir este anuncio donde todos los socios que actúan como líderes de ese rol o dentro de ese rol normalmente lo verán. Su anuncio debe incluir el motivo del gasto y la función que desempeñará. Luego debe esperar un tiempo razonable para permitir la consideración y las respuestas. Cualquier destinatario de su anuncio puede escalar la petición de gasto para una consideración adicional, y usted no puede continuar con el gasto si se traslada a un nivel superior. Sin embargo, un líder del rol del que está solicitando autorización puede revertir una escalada, al igual que la persona que la elevó. Una vez que haya pasado un tiempo razonable y no se produzcan escaladas, su rol obtiene el control de esos recursos. Puede gastarlos para el propósito indicado o autorizar a otros a hacerlo. El rol del que obtuvo esta autorización también pierde este control; sin embargo, un líder de ese rol puede revocar la autorización en cualquier momento.
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+Una política puede cambiar este proceso de cualquier manera o autorizar directamente a un Rol para controlar el gasto de los recursos del Círculo.
 
-### 4.2 Interpretation Authority
+### 4.2 Autoridad de interpretación
 
 As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
 
