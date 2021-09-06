@@ -72,61 +72,61 @@ El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo p
 
 #### 1.3.3 Círculo de anclaje 
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy. El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El “círculo de anclaje” tiene todas las autoridades y los dominios que la propia Organización controla, y no tiene un Supercírculo. El Anchor Circle puede cambiar su propio Propósito o aclarar sus propias Responsabilidades a través de una Política.
+El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia organización controla, y no tiene un supercírculo. El círculo de anclaje puede cambiar su propio propósito o aclarar sus propias responsabilidades a través de una política.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro del círculo de anclaje al adoptar esta CONSTITUCIÓN.
 
-#### 1.3.4 Linking Into Circles
+#### 1.3.4 Vinculación con otros círculos
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súpercírculo del mismo lo invita.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede agregar asignaciones al rol y luego cambiar lo que agrega. Sin embargo, no puede eliminar el rol ni cambiar nada agregado por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que agregue. La autoridad para agregar o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+Un círculo puede desvincular un rol eliminando la política que lo invitó a vincularse, o mediante otro mecanismo definido en esa política. Un rol también puede optar por eliminarse a sí mismo de un círculo al que esté vinculado, a menos que una política dentro del supercírculo del rol o que actúe sobre él indique lo contrario. Una vez desvinculado de un círculo, cualquier gobernanza agregada al rol por ese círculo se elimina automáticamente.
 
-#### 1.3.5 Facilitator & Secretary Roles
+#### 1.3.5 Roles de Facilitador y Secretario
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+Cualquier círculo puede designar a alguien como ***"facilitador/a"*** del círculo. El facilitador/a seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+Cualquier círculo puede nombrar a alguien como ***"secretario/a"*** del círculo. El secretario/a seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+Un círculo puede agregar responsabilidades o dominios a su propio rol de facilitador o secretario, así como enmendar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito de cualquiera de estos dos roles, ni las responsabilidades o dominios asignados a estos roles por esta Constitución.
 
-### 1.4 Circle Leads
+### 1.4 Líderes de círculo
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+Servir como líder de rol también significa servir como ***“líder de círculo”*** dentro del círculo interno de ese rol y, por lo tanto, ocupar dentro el ***“rol de líder de círculo”***. El rol de líder de círculo tiene el propósito general de ese rol más amplio y todas las responsabilidades de ese rol en la medida en que no estén cubiertas por otros roles o procesos dentro del círculo. 
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise. El círculo de anclaje no tiene líderes de círculo, a menos que una política del círculo indique lo contrario.
 
-#### 1.4.1 Assigning Roles
+#### 1.4.1 Asignando roles
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+Un líder de círculo controla las asignaciones de roles del círculo y puede asignar cualquier rol dentro del círculo a cualquiera que esté dispuesto a ocuparlo, incluidas varias personas al mismo tiempo. Cualquier persona así asignada puede renunciar posteriormente a desempeñar el cargo, a menos que hayan acordado lo contrario. Un líder de círculo también puede revocar una asignación a cualquier rol dentro de su círculo en cualquier momento.
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+Un líder de círculo puede enfocar la asignación de un rol a un contexto específico (en adelante "foco"). Para hacerlo, toda la definición de rol debe seguir siendo relevante dentro de ese contexto. Cuando se utiliza un foco, cada foco de asignación se comporta como un rol independiente. El propósito, los dominios y las responsabilidades del rol todavía se aplican, pero solo dentro del foco de la tarea.
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+Nadie más que un líder de círculo puede asignar un rol o revocar una asignación de rol dentro del círculo, a menos que el círculo haya delegado el control de las asignaciones de rol a un rol o proceso diferente. Una política puede restringir aún más las asignaciones o eliminaciones de roles.
 
-#### 1.4.2 Covering Unfilled Roles
+#### 1.4.2 Cubriendo roles vacantes
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+Siempre que un rol en un círculo no se cubra, el líder del círculo se considera automáticamente el líder del rol vacante.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+Cuando un rol lo ocupan solo personas que no son socios de la organización, cada líder de círculo se considera automáticamente un líder de ese rol también. Sin embargo, esta asignación predeterminada solo se aplica en la medida en que los no-socios no estén cumpliendo activamente con las responsabilidades y deberes relevantes que tendría un socio.
 
-#### 1.4.3 Defining Priorities & Strategies
+#### 1.4.3 Definiendo prioridades y estrategias
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle. Un líder de círculo puede juzgar el valor relativo de los esfuerzos potenciales del círculo para resolver conflictos de prioridad entre los roles. Un líder de círculo también puede definir una ***“Estrategia”***, o varias, para el círculo, que son heurísticas que guían la priorización en el círculo.
 
-#### 1.4.4 Routing External References
+#### 1.4.4 Encaminando referencias externas
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí o a cualquier rol en el círculo, un/a líder de círculo puede actualizar esa referencia para referirse en su lugar a otro rol en el círculo. Esta aclaración no se considera un cambio en la gobernanza de ese círculo.
 
-#### 1.4.5 Amending the Circle Lead Role
+#### 1.4.5 Modificación del rol líder de círculo
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+Un círculo no puede modificar el propósito de su rol líder de círculo ni eliminar el rol en sí.
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
+Un círculo puede agregar responsabilidades o dominios al rol líder de círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol líder de círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de líder de círculo, o cualquier otro que sea relevante dentro de ese círculo.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol líder de círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol líder de círculo del círculo, mientras la delegación permanezca vigente.
 
 
 ## Article 2: Rules of Cooperation
