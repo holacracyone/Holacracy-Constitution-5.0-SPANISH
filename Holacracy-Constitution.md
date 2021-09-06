@@ -2,20 +2,20 @@
 
 ## Preámbulo
 
-Las personas que ratifican la presente ***“CONSTITUCIÓN”*** (en adelante ***“RATIFICANTES”***) como la estructura de autoridad formal de la ***“ORGANIZACIÓN”*** especificada. Al hacerlo, los Ratificantes ceden su poder de dirección y gestión de la ORGANIZACIÓN a las reglas y procesos aquí establecidos, a excepción de los poderes que los RATIFICANTES no tienen la autoridad de delegar. Los RATIFICANTES o sus sucesores pueden enmendar esta COSTITUCIÓN o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
+Las personas que ratifican la presente ***“CONSTITUCIÓN”*** (en adelante ***“RATIFICADORES”***) como la estructura de autoridad formal de la ***“ORGANIZACIÓN”*** especificada. Al hacerlo, los RATIFICADORES ceden su poder de dirección y gestión de la ORGANIZACIÓN a las reglas y procesos aquí establecidos, a excepción de los poderes que los RATIFICADORES no tienen la autoridad de delegar. Los RATIFICADORES o sus sucesores pueden enmendar esta COSTITUCIÓN o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
 
 Todas las políticas y sistemas existentes que la ORGANIZACIÓN tuviera en vigor antes de adoptar esta CONSTITUCIÓN continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliados o modificados excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden aún más peso y autoridad tan pronto como los procesos de esta CONSTITUCIÓN creen algo que los reemplace o contradiga.  
 
-La ORGANIZACIÓN puede designar a otros ***“SOCIOS”*** además de los RATIFICANTES para ayudar con su gobierno y operaciones, siempre que dichos SOCIOS también hayan acordado cumplir con todos los términos relevantes de esta CONSTITUCIÓN. Dentro de esa restricción, la ORGANIZACIÓN puede definir cómo otorga o elimina el estatus de SOCIO o SOCIA, a menos que los RATIFICANTES especifiquen lo contrario, y los RATIFICANTES pueden especificar los SOCIOS iniciales para la ORGANIZACIÓN.
+La ORGANIZACIÓN puede designar a otros ***“SOCIOS”*** además de los RATIFICADORES para ayudar con su gobierno y operaciones, siempre que dichos SOCIOS también hayan acordado cumplir con todos los términos relevantes de esta CONSTITUCIÓN. Dentro de esa restricción, la ORGANIZACIÓN puede definir cómo otorga o elimina el estatus de SOCIO o SOCIA, a menos que los RATIFICADORES especifiquen lo contrario, y los RATIFICADORES pueden especificar los SOCIOS iniciales para la ORGANIZACIÓN.
 
-Cada SOCIO puede confiar en las autoridades otorgadas por esta CONSTITUCIÓN en la medida en que los RATIFICANTES tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un SOCIO o una SOCIA provienen de esta CONSTITUCIÓN y los resultados de sus procesos, y de cualquier deber legal que el SOCIO o la SOCIA tenga para con la ORGANIZACIÓN y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un SOCIO o una SOCIA, ni ningún dictado emitido fuera de la autoridad otorgada por esta CONSTITUCIÓN. 
+Cada SOCIO puede confiar en las autoridades otorgadas por esta CONSTITUCIÓN en la medida en que los RATIFICADORES tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un SOCIO o una SOCIA provienen de esta CONSTITUCIÓN y los resultados de sus procesos, y de cualquier deber legal que el SOCIO o la SOCIA tenga para con la ORGANIZACIÓN y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un SOCIO o una SOCIA, ni ningún dictado emitido fuera de la autoridad otorgada por esta CONSTITUCIÓN. 
 
 
 ## Artículo 1: Estructura organizativa
 
 ### 1.1 Definición de rol
 
-Un *** “Rol” *** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la Organización. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
+Un *** “Rol” *** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la ORGANIZACIÓN. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
 
 Una definición de rol consta de un nombre descriptivo y uno o más de los siguientes elementos:
 
@@ -52,27 +52,27 @@ Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y p
 
 Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas acciones que podría tomar y de ejecutar las que agreguen más valor a la ORGANIZACIÓN.
 
-### 1.3 Circles
+### 1.3 Círculos
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+Un ***“Círculo”*** es un contenedor para organizar roles y políticas en torno a un propósito común. Los roles y las políticas dentro de un círculo constituyen su ***“gobierno”*** en funciones.
 
-#### 1.3.1 Breaking Down Roles
+#### 1.3.1 Desglose de roles
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+El interior de cada rol es un círculo. Este círculo puede tener sus propios roles y políticas para dividir y organizar su trabajo. Esto no se aplica a los roles definidos por defecto en esta Constitución, que no pueden desglosarse más.
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+El círculo interno de un rol se considera un ***“subcírculo”*** del círculo más amplio que tiene el rol, mientras que ese círculo más amplio es su ***“supercírculo”***.
 
-#### 1.3.2 Delegating Domains
+#### 1.3.2 Delegar dominios
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+Cuando un círculo otorga un dominio a uno de sus roles, cualquier líder de rol para ese rol puede controlar ese dominio en nombre del círculo. Un círculo solo puede otorgar dominios a los roles que se encuentren dentro de los propios dominios del círculo, o que solo sean relevantes dentro de sus propios procesos internos. 
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+Una vez que un rol controla un dominio, puede crear políticas que rijan ese dominio dentro de su propio gobierno. Sin embargo, el círculo que delegó el dominio se reserva el derecho de definir sus propias políticas que gobiernan ese dominio también. Cualquiera de estas políticas reemplaza a las definidas por el rol en caso de conflicto.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo para controlar el gasto de dinero o activos, a menos que se especifique explícitamente.
 
-#### 1.3.3 Anchor Circle
+#### 1.3.3 Círculo de anclaje
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy. El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia Organización controla, y no tiene un Supercírculo. El Anchor Circle puede cambiar su propio Propósito o aclarar sus propias Responsabilidades a través de una Política.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
