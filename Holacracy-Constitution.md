@@ -317,21 +317,21 @@ Una Política que otorga o restringe la autoridad también se aplica en todos lo
 
 ### 5.3 Cambiando la gobernanza
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+Cualquier miembro de un círculo puede iniciar su proceso de gobernanza proponiendo un cambio en su gobernanza. Para hacerlo, el ***“proponente”*** debe primero compartir una ***“propuesta”*** por escrito con todos los demás miembros del círculo, utilizando cualquier canal de comunicación permitido por el/la secretario/a. A continuación, esos otros miembros del círculo pueden hacer preguntas aclaratorias, compartir reacciones y plantear inquietudes sobre la adopción de la propuesta. Cada inquietud es una ***"objeción"*** si cumple con los criterios en este documento, y la persona que la planteó es el ***"objetor/a"***.
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+Una vez que cada miembro del círculo confirma que no tiene objeciones a una propuesta, se adopta y modifica la gobernanza del círculo. Si surgen objeciones, el/la proponente y cada objetor/a deben encontrar una manera de abordar las objeciones antes de que el círculo adopte la propuesta. Después de cualquier esfuerzo de este tipo, todos los miembros del círculo deben tener otra oportunidad para presentar objeciones. Un círculo puede adoptar una política para definir un límite de tiempo para presentar objeciones, después de lo cual se supone que cualquier persona que no haya respondido no tendrá objeciones. En cualquier momento mientras el círculo procesa una propuesta de forma asincrónica, cualquier miembro del círculo puede solicitar al proponente que lleve la propuesta a una reunión para procesarla en tiempo real. A menos que una política diga lo contrario, el procesamiento asincrónico se detiene y la propuesta se considera retirada hasta que se vuelva a proponer en una reunión.
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+Al hacer propuestas o plantear objeciones, un miembro del círculo solo puede representar los roles en el círculo que ocupa como líder de rol o representan como representante del círculo. Un miembro del círculo también puede representar un rol temporalmente con el permiso de uno de sus líderes del rol, hasta que ese permiso caduque o se retire.
 
-#### 5.3.1 Proposal Requirements
+#### 5.3.1 Requisitos de la propuesta
 
-For a Proposal to be valid, the Proposer must be able to:
+Para que una propuesta sea válida, el proponente debe poder:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **(a)** describir una tensión que la propuesta abordaría para uno de los roles del proponente; y
+- **(b)** comparta un ejemplo de una situación actual pasada o presente que ilustre esa tensión; y
+- **(c)** dar una explicación razonable de cómo la propuesta habría reducido la tensión en ese ejemplo.
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+Si en algún momento el/la facilitador/a tiene claro que una propuesta no cumple con estos criterios, el/la facilitador/a debe descartar la propuesta.
 
 #### 5.3.2 Objection Requirements
 
@@ -342,17 +342,17 @@ A concern about adopting a Proposal only counts as an Objection if the Objector 
 - **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
 - **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+Sin embargo, independientemente de los criterios anteriores, una inquietud siempre cuenta como una objeción si la adopción de la propuesta viola una regla de esta Constitución.
 
-#### 5.3.3 Testing Potential Objections
+#### 5.3.3 Prueba de posibles objeciones
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+El/LA facilitador/a puede probar si una inquietud cuenta como objeción preguntando a la persona que objeta si la inquietud cumple con los criterios requeridos y cómo. Al evaluar las respuestas, el/la facilitador/a solo puede juzgar si el/la objetor/a presentó argumentos para cada criterio utilizando un razonamiento lógico. El/La facilitador/a no puede juzgar sobre la base de la precisión de un argumento o la importancia de abordarlo.
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+Cuando se reclama una objeción porque la adopción de una propuesta violaría esta Constitución, el/la facilitador/a puede pedirle al secretario/a del círculo que interprete si eso es cierto. Si el/la secretario/a decide que no lo es, el/la facilitador/a debe entonces desestimar la objeción.
 
-#### 5.3.4 Rules of Integration
+#### 5.3.4 Reglas de integración
 
-While attempting to resolve an Objection, the following rules apply:
+Al intentar resolver una objeción, se aplican las siguientes reglas:
 
 - **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
 - **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
