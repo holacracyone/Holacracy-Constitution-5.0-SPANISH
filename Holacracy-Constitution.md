@@ -1,14 +1,14 @@
-# **Holacracy Constitution**
+# **Constitución de Holacracy**
 
-## Preamble
+## Preámbulo
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+Las personas que ratifican la presente ***“CONSTITUCIÓN”*** (en adelante ***“RATIFICANTES”***) como la estructura de autoridad formal de la ***“ORGANIZACIÓN”*** especificada. Al hacerlo, los Ratificantes ceden su poder de dirección y gestión de la ORGANIZACIÓN a las reglas y procesos aquí establecidos, a excepción de los poderes que los RATIFICANTES no tienen la autoridad de delegar. Los RATIFICANTES o sus sucesores pueden enmendar esta COSTITUCIÓN o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Todas las políticas y sistemas existentes que la ORGANIZACIÓN tuviera en vigor antes de adoptar esta CONSTITUCIÓN continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliados o modificados excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden aún más peso y autoridad tan pronto como los procesos de esta CONSTITUCIÓN creen algo que los reemplace o contradiga.  
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+La ORGANIZACIÓN puede designar a otros ***“SOCIOS”*** además de los RATIFICANTES para ayudar con su gobierno y operaciones, siempre que dichos SOCIOS también hayan acordado cumplir con todos los términos relevantes de esta CONSTITUCIÓN. Dentro de esa restricción, la ORGANIZACIÓN puede definir cómo otorga o elimina el estatus de SOCIO o SOCIA, a menos que los RATIFICANTES especifiquen lo contrario, y los RATIFICANTES pueden especificar los SOCIOS iniciales para la ORGANIZACIÓN.
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+Cada SOCIO puede confiar en las autoridades otorgadas por esta CONSTITUCIÓN en la medida en que los RATIFICANTES tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un SOCIO o una SOCIA provienen de esta CONSTITUCIÓN y los resultados de sus procesos, y de cualquier deber legal que el SOCIO o la SOCIA tenga para con la ORGANIZACIÓN y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un SOCIO o una SOCIA, ni ningún dictado emitido fuera de la autoridad otorgada por esta CONSTITUCIÓN. 
 
 
 ## Article 1: Organizational Structure
