@@ -333,14 +333,14 @@ Para que una propuesta sea válida, el proponente debe poder:
 
 Si en algún momento el/la facilitador/a tiene claro que una propuesta no cumple con estos criterios, el/la facilitador/a debe descartar la propuesta.
 
-#### 5.3.2 Objection Requirements
+#### 5.3.2 Requisitos de objeción
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+Una inquietud sobre la adopción de una propuesta solo cuenta como una objeción si el objetante puede proporcionar un argumento razonable de por qué cumple **todos** los siguientes criterios:
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **(a)** La propuesta reduciría la capacidad del círculo para promulgar su propósito o responsabilidades.
+- **(b)** La propuesta limitaría la capacidad del objetante para promulgar el propósito o la responsabilidad de un rol que el objetante representa en el círculo, incluso si el objetante no ocupara otros roles en la Organización.
+- **(c)** La preocupación aún no existe incluso en ausencia de la propuesta. Por lo tanto, se crearía una nueva tensión específicamente adoptando la propuesta.
+- **(d)** La propuesta necesariamente causaría el impacto o, aún dudando de que pudiera causar el impacto, el círculo no tendría una oportunidad adecuada para adaptarse antes de que pudiera resultar en un daño significativo.
 
 Sin embargo, independientemente de los criterios anteriores, una inquietud siempre cuenta como una objeción si la adopción de la propuesta viola una regla de esta Constitución.
 
@@ -354,10 +354,10 @@ Cuando se reclama una objeción porque la adopción de una propuesta violaría e
 
 Al intentar resolver una objeción, se aplican las siguientes reglas:
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+- **(a)** El/La facilitador/a debe probar una objeción si lo solicita cualquier miembro del círculo. Si no cumple con los criterios requeridos, el/la facilitador/a debe descartarlo.
+- **(b)** El/La objetante debe intentar encontrar una enmienda a la propuesta que resuelva la objeción y aún aborde la tensión del proponente. Si el/la facilitador/a cree que el/la objetante no está haciendo un intento de buena fe para hacerlo, el/la facilitador/a debe considerar abandonada la objeción y retirarla.
+- **(c)** Cualquier miembro del círculo puede hacer al proponente preguntas aclaratorias sobre la tensión detrás de la propuesta, o sobre cualquier ejemplo que el/la proponente compartió para ilustrar la tensión. Si el/la facilitador/a cree que el/la proponente no les responde de buena fe, el/la facilitador/a debe considerar que la propuesta se ha descartado.
+- **(d)** El/La objetante puede sugerir una propuesta enmendada y ofrecer argumentos razonables de por qué debería resolver la tensión. Luego, a solicitud de la persona objetante, el/la proponente debe presentar un argumento razonable de por qué la propuesta enmendada no resolvería la tensión en al menos uno de los ejemplos que el/la proponente utilizó para ilustrar la tensión. Si es necesario, el proponente puede agregar otro ejemplo para ilustrar por qué la propuesta enmendada no resolvería la tensión. Si el/la facilitador/a cree que el/la proponente no puede o no quiere hacerlo, el/la facilitador/a debe considerar que la propuesta se ha descartado.
 
 #### 5.3.5 Integrative Election Process
 
