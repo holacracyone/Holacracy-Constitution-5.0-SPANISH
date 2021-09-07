@@ -2,20 +2,20 @@
 
 ## Preámbulo
 
-Las personas que ratifican la presente ***“CONSTITUCIÓN”*** (en adelante ***“RATIFICADORES”***) como la estructura de autoridad formal de la ***“ORGANIZACIÓN”*** especificada. Al hacerlo, los RATIFICADORES ceden su poder de dirección y gestión de la ORGANIZACIÓN a las reglas y procesos aquí establecidos, a excepción de los poderes que los RATIFICADORES no tienen la autoridad de delegar. Los RATIFICADORES o sus sucesores pueden enmendar esta COSTITUCIÓN o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
+Las personas que ratifican la presente ***“Constitución”*** (en adelante ***“ratificadores”***) como la estructura de autoridad formal de la ***“Organización”*** especificada. Al hacerlo, los ratificadores ceden su poder de dirección y gestión de la Organización a las reglas y procesos aquí establecidos, a excepción de los poderes que los ratificadores no tienen la autoridad de delegar. Los ratificadores o sus sucesores pueden enmendar esta Constitución o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
 
-Todas las políticas y sistemas existentes que la ORGANIZACIÓN tuviera en vigor antes de adoptar esta CONSTITUCIÓN continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliados o modificados excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden aún más peso y autoridad tan pronto como los procesos de esta CONSTITUCIÓN creen algo que los reemplace o contradiga.  
+Todas las políticas y sistemas existentes que la Organización tuviera en vigor antes de adoptar esta Constitución continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliados o modificados excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden aún más peso y autoridad tan pronto como los procesos de esta Constitución creen algo que los reemplace o contradiga.  
 
-La ORGANIZACIÓN puede designar a otros ***“SOCIOS”*** además de los RATIFICADORES para ayudar con su gobierno y operaciones, siempre que dichos SOCIOS también hayan acordado cumplir con todos los términos relevantes de esta CONSTITUCIÓN. Dentro de esa restricción, la ORGANIZACIÓN puede definir cómo otorga o elimina el estatus de SOCIO o SOCIA, a menos que los RATIFICADORES especifiquen lo contrario, y los RATIFICADORES pueden especificar los SOCIOS iniciales para la ORGANIZACIÓN.
+La Organización puede designar a otros ***“socios”*** además de los ratificadores para ayudar con su gobierno y operaciones, siempre que dichos socios también hayan acordado cumplir con todos los términos relevantes de esta Constitución. Dentro de esa restricción, la Organización puede definir cómo otorga o elimina el estatus de "Socio" o "Socia", a menos que los ratificadores especifiquen lo contrario, y los ratificadores pueden especificar los socios iniciales para la Organización.
 
-Cada SOCIO puede confiar en las autoridades otorgadas por esta CONSTITUCIÓN en la medida en que los RATIFICADORES tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un SOCIO o una SOCIA provienen de esta CONSTITUCIÓN y los resultados de sus procesos, y de cualquier deber legal que el SOCIO o la SOCIA tenga para con la ORGANIZACIÓN y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un SOCIO o una SOCIA, ni ningún dictado emitido fuera de la autoridad otorgada por esta CONSTITUCIÓN. 
+Cada socio puede confiar en las autoridades otorgadas por esta Constitución en la medida en que los ratificadores tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un socio provienen de esta Constitución y los resultados de sus procesos, y de cualquier deber legal que el socio tenga para con la Organización y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un socio, ni ningún dictado emitido fuera de la autoridad otorgada por esta Constitución. 
 
 
 ## Artículo 1: Estructura organizativa
 
 ### 1.1 Definición de rol
 
-Un *** “Rol” *** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la ORGANIZACIÓN. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
+Un ***“rol”*** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la Organización. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
 
 Una definición de rol consta de un nombre descriptivo y uno o más de los siguientes elementos:
 
@@ -37,12 +37,12 @@ Usted es responsable de comparar la expresión actual del propósito y responsab
 
 Usted es responsable de considerar de forma periódico cómo implementar el propósito de su rol y cada responsabilidad, definiendo:
 
-- **(a)** ***“Próximas acciones”***, que son acciones útiles que podría tomar de inmediato, al menos en ausencia de prioridades en competencia; y
+- **(a)** ***“Próximas-acciones”***, que son acciones útiles que podría tomar de inmediato, al menos en ausencia de prioridades en competencia; y
 - **(b)** ***“Proyectos”***, que son resultados específicos hacia los que sería útil trabajar, al menos en ausencia de prioridades en competencia.
 
 #### 1.2.3 Desglose de proyectos
 
-Usted es responsable de definir regularmente las próximas acciones para cada uno de los proyectos activos de su Rol.
+Usted es responsable de definir regularmente las próximas acciones para cada uno de los proyectos activos de su rol.
 
 #### 1.2.4 Seguimiento de proyectos, próximas acciones y tensiones
 
@@ -50,11 +50,11 @@ Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y p
 
 #### 1.2.5 Ejecución de próximas acciones
 
-Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas acciones que podría tomar y de ejecutar las que agreguen más valor a la ORGANIZACIÓN.
+Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas acciones que podría tomar y de ejecutar las que agreguen más valor a la Organización.
 
 ### 1.3 Círculos
 
-Un ***“Círculo”*** es un contenedor para organizar roles y políticas en torno a un propósito común. Los roles y las políticas dentro de un círculo constituyen su ***“gobierno”*** en funciones.
+Un ***“círculo”*** es un contenedor para organizar roles y políticas en torno a un propósito común. Los roles y las políticas dentro de un círculo constituyen su ***“gobierno”*** en funciones.
 
 #### 1.3.1 Desglose de roles
 
@@ -72,9 +72,9 @@ El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo p
 
 #### 1.3.3 Círculo de anclaje 
 
-El círculo más amplio que contiene el propósito de toda la ORGANIZACIÓN es su ***“círculo de anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia organización controla, y no tiene un supercírculo. El círculo de anclaje puede cambiar su propio propósito o aclarar sus propias responsabilidades a través de una política.
+El círculo más amplio que contiene el propósito de toda la Organización es su ***“Círculo de Anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia organización controla, y no tiene un supercírculo. El círculo de anclaje puede cambiar su propio propósito o aclarar sus propias responsabilidades a través de una política.
 
-Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro del círculo de anclaje al adoptar esta CONSTITUCIÓN.
+Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro del círculo de anclaje al adoptar esta Constitución.
 
 #### 1.3.4 Vinculación con otros círculos
 
@@ -86,45 +86,45 @@ Un círculo puede desvincular un rol eliminando la política que lo invitó a vi
 
 #### 1.3.5 Roles de Facilitador y Secretario
 
-Cualquier círculo puede designar a alguien como ***"facilitador/a"*** del círculo. El facilitador/a seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
+Cualquier círculo puede designar a alguien como ***"Facilitador/a"*** del círculo. El facilitador/a seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
 
-Cualquier círculo puede nombrar a alguien como ***"secretario/a"*** del círculo. El secretario/a seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
+Cualquier círculo puede nombrar a alguien como ***"Secretario/a"*** del círculo. El secretario/a seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
 
 Un círculo puede agregar responsabilidades o dominios a su propio rol de facilitador o secretario, así como enmendar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito de cualquiera de estos dos roles, ni las responsabilidades o dominios asignados a estos roles por esta Constitución.
 
 ### 1.4 Líderes de círculo
 
-Servir como líder de rol también significa servir como ***“líder de círculo”*** dentro del círculo interno de ese rol y, por lo tanto, ocupar dentro el ***“rol de líder de círculo”***. El rol de líder de círculo tiene el propósito general de ese rol más amplio y todas las responsabilidades de ese rol en la medida en que no estén cubiertas por otros roles o procesos dentro del círculo. 
+Servir como líder de rol también significa servir como ***“Líder de Círculo”*** dentro del círculo interno de ese rol y, por lo tanto, ocupar dentro el ***“rol de Líder de Círculo”***. El rol de Líder de Círculo tiene el propósito general de ese rol más amplio y todas las responsabilidades de ese rol en la medida en que no estén cubiertas por otros roles o procesos dentro del círculo. 
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise. El círculo de anclaje no tiene líderes de círculo, a menos que una política del círculo indique lo contrario.
+El Círculo de Anclaje no tiene Líderes de Círculo, a menos que una política del círculo indique lo contrario.
 
 #### 1.4.1 Asignando roles
 
-Un líder de círculo controla las asignaciones de roles del círculo y puede asignar cualquier rol dentro del círculo a cualquiera que esté dispuesto a ocuparlo, incluidas varias personas al mismo tiempo. Cualquier persona así asignada puede renunciar posteriormente a desempeñar el cargo, a menos que hayan acordado lo contrario. Un líder de círculo también puede revocar una asignación a cualquier rol dentro de su círculo en cualquier momento.
+Un Líder de Círculo controla las asignaciones de roles del círculo y puede asignar cualquier rol dentro del círculo a cualquiera que esté dispuesto a ocuparlo, incluidas varias personas al mismo tiempo. Cualquier persona así asignada puede renunciar posteriormente a desempeñar el cargo, a menos que hayan acordado lo contrario. Un Líder de Círculo también puede revocar una asignación a cualquier rol dentro de su círculo en cualquier momento.
 
-Un líder de círculo puede enfocar la asignación de un rol a un contexto específico (en adelante "foco"). Para hacerlo, toda la definición de rol debe seguir siendo relevante dentro de ese contexto. Cuando se utiliza un foco, cada foco de asignación se comporta como un rol independiente. El propósito, los dominios y las responsabilidades del rol todavía se aplican, pero solo dentro del foco de la tarea.
+Un Líder de Círculo puede enfocar la asignación de un rol a un contexto específico (en adelante "foco"). Para hacerlo, toda la definición de rol debe seguir siendo relevante dentro de ese contexto. Cuando se utiliza un foco, cada foco de asignación se comporta como un rol independiente. El propósito, los dominios y las responsabilidades del rol todavía se aplican, pero solo dentro del foco de la tarea.
 
-Nadie más que un líder de círculo puede asignar un rol o revocar una asignación de rol dentro del círculo, a menos que el círculo haya delegado el control de las asignaciones de rol a un rol o proceso diferente. Una política puede restringir aún más las asignaciones o eliminaciones de roles.
+Nadie más que un Líder de Círculo puede asignar un rol o revocar una asignación de rol dentro del círculo, a menos que el círculo haya delegado el control de las asignaciones de rol a un rol o proceso diferente. Una política puede restringir aún más las asignaciones o eliminaciones de roles.
 
 #### 1.4.2 Cubriendo roles vacantes
 
-Siempre que un rol en un círculo no se cubra, el líder del círculo se considera automáticamente el líder del rol vacante.
+Siempre que un rol en un círculo no se cubra, el Líder de Círculo se considera automáticamente el líder del rol vacante.
 
-Cuando un rol lo ocupan solo personas que no son socios de la organización, cada líder de círculo se considera automáticamente un líder de ese rol también. Sin embargo, esta asignación predeterminada solo se aplica en la medida en que los no-socios no estén cumpliendo activamente con las responsabilidades y deberes relevantes que tendría un socio.
+Cuando un rol lo ocupan solo personas que no son socios de la organización, cada Líder de Círculo se considera automáticamente un líder de ese rol también. Sin embargo, esta asignación predeterminada solo se aplica en la medida en que los no-socios no estén cumpliendo activamente con las responsabilidades y deberes relevantes que tendría un socio.
 
 #### 1.4.3 Definiendo prioridades y estrategias
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle. Un líder de círculo puede juzgar el valor relativo de los esfuerzos potenciales del círculo para resolver conflictos de prioridad entre los roles. Un líder de círculo también puede definir una ***“Estrategia”***, o varias, para el círculo, que son heurísticas que guían la priorización en el círculo.
+Un Líder de Círculo puede juzgar el valor relativo de los esfuerzos potenciales del círculo para resolver conflictos de prioridad entre los roles. Un Líder de Círculo también puede definir una ***“estrategia”***, o varias, para el círculo, que son heurísticas que guían la priorización en el círculo.
 
 #### 1.4.4 Encaminando referencias externas
 
-Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí o a cualquier rol en el círculo, un/a líder de círculo puede actualizar esa referencia para referirse en su lugar a otro rol en el círculo. Esta aclaración no se considera un cambio en la gobernanza de ese círculo.
+Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí o a cualquier rol en el círculo, un Líder de Círculo puede actualizar esa referencia para referirse en su lugar a otro rol en el círculo. Esta aclaración no se considera un cambio en la gobernanza de ese círculo.
 
 #### 1.4.5 Modificación del rol líder de círculo
 
-Un círculo no puede modificar el propósito de su rol líder de círculo ni eliminar el rol en sí.
+Un círculo no puede modificar el propósito de su rol Líder de Círculo ni eliminar el rol en sí.
 
-Un círculo puede agregar responsabilidades o dominios al rol líder de círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol líder de círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de líder de círculo, o cualquier otro que sea relevante dentro de ese círculo.
+Un círculo puede agregar responsabilidades o dominios al rol Líder de Círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol líder de círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de líder de círculo, o cualquier otro que sea relevante dentro de ese círculo.
 
 Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol líder de círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol líder de círculo del círculo, mientras la delegación permanezca vigente.
 
@@ -359,16 +359,16 @@ Al intentar resolver una objeción, se aplican las siguientes reglas:
 - **(c)** Cualquier miembro del círculo puede hacer al proponente preguntas aclaratorias sobre la tensión detrás de la propuesta, o sobre cualquier ejemplo que el/la proponente compartió para ilustrar la tensión. Si el/la facilitador/a cree que el/la proponente no les responde de buena fe, el/la facilitador/a debe considerar que la propuesta se ha descartado.
 - **(d)** El/La objetante puede sugerir una propuesta enmendada y ofrecer argumentos razonables de por qué debería resolver la tensión. Luego, a solicitud de la persona objetante, el/la proponente debe presentar un argumento razonable de por qué la propuesta enmendada no resolvería la tensión en al menos uno de los ejemplos que el/la proponente utilizó para ilustrar la tensión. Si es necesario, el proponente puede agregar otro ejemplo para ilustrar por qué la propuesta enmendada no resolvería la tensión. Si el/la facilitador/a cree que el/la proponente no puede o no quiere hacerlo, el/la facilitador/a debe considerar que la propuesta se ha descartado.
 
-#### 5.3.5 Integrative Election Process
+#### 5.3.5 Proceso de elección integrativo
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+Cualquier miembro del círculo también puede iniciar el proceso de gobernanza del círculo convocando la elección de un/a Representante, Facilitador/a o Secretario/a del círculo. El Facilitador/a interino/a debe luego poner en marcha el ***“Proceso de Elección Integrativo”*** de la siguiente manera:
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(a) Describir el rol:** Primero, el facilitador identifica el rol objetivo y elige un plazo para la elección. El Facilitador también puede presentar otra información relevante para la elección. Durante este paso y el siguiente, nadie puede comentar sobre ningún candidato potencial.
+- **(b) Nominar los candidatos:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
+- **(c) Ronda de compartir las nominaciones:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
+- **(d) Ronda de cambio de nominación:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
+- **(e) Hacer una propuesta:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
+- **(f) Ronda de objeciones:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
 
 A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
 
