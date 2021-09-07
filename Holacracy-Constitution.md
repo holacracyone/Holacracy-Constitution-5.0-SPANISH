@@ -86,11 +86,11 @@ Un círculo puede desvincular un rol eliminando la política que lo invitó a vi
 
 #### 1.3.5 Roles de Facilitador y Secretario
 
-Cualquier círculo puede designar a alguien como ***"Facilitador/a"*** del círculo. El facilitador/a seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
+Cualquier círculo puede designar a alguien como ***"Facilitador/a"*** del círculo. El Facilitador seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
 
-Cualquier círculo puede nombrar a alguien como ***"Secretario/a"*** del círculo. El secretario/a seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
+Cualquier círculo puede nombrar a alguien como ***"Secretario/a"*** del círculo. El Secretario seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
 
-Un círculo puede agregar responsabilidades o dominios a su propio rol de facilitador o secretario, así como enmendar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito de cualquiera de estos dos roles, ni las responsabilidades o dominios asignados a estos roles por esta Constitución.
+Un círculo puede agregar responsabilidades o dominios a su propio rol de Facilitador o Secretario, así como enmendar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito de cualquiera de estos dos roles, ni las responsabilidades o dominios asignados a estos roles por esta Constitución.
 
 ### 1.4 Líderes de círculo
 
@@ -124,9 +124,9 @@ Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí 
 
 Un círculo no puede modificar el propósito de su rol Líder de Círculo ni eliminar el rol en sí.
 
-Un círculo puede agregar responsabilidades o dominios al rol Líder de Círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol líder de círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de líder de círculo, o cualquier otro que sea relevante dentro de ese círculo.
+Un círculo puede agregar responsabilidades o dominios al rol Líder de Círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol Líder de Círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de Líder de Círculo, o cualquier otro que sea relevante dentro de ese círculo.
 
-Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol líder de círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol líder de círculo del círculo, mientras la delegación permanezca vigente.
+Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol Líder de Círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol Líder de Círculo del círculo, mientras la delegación permanezca vigente.
 
 
 ## Artículo 2: Reglas de cooperación
@@ -145,7 +145,7 @@ Como socio/a, tiene el deber de brindar transparencia a los líderes de roles de
 
 ### 2.2 Deber de procesamiento
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows: Como socio/a, tiene el deber de procesar rápidamente los mensajes y solicitudes de los líderes de roles en la organización, de la siguiente manera:
+Como socio/a, tiene el deber de procesar rápidamente los mensajes y solicitudes de los líderes de roles en la organización, de la siguiente manera:
 
 - **(a) Solicitudes de clarificación:** Otros pueden pedirle que aclare los próximos pasos para cualquiera de sus proyectos o para cualquier responsabilidad de sus roles. Luego debe determinar y comunicar una próxima acción para hacerlo avanzar, si hay alguna que pueda tomar. Si no las hay, debe compartir a qué está esperando antes de poder realizar una próxima acción.
 - **(b) Solicitudes de proyectos y próximas acciones:** Otros pueden pedirle que emprenda una próxima acción o un proyecto específico. Debe aceptarlo y realizar un seguimiento si cree que tendría sentido trabajarlo en uno de sus roles o como socio de la organización, al menos en ausencia de prioridades en competencia. Si no lo hace, debe explicar su razonamiento o sugerir otra cosa que crea que cumplirá con el objetivo del solicitante.
@@ -157,8 +157,8 @@ Como socio/a, tiene el deber de priorizar su atención de acuerdo con lo siguien
 
 - **(a) Procesamiento:** Por lo general, debe priorizar el procesamiento de mensajes entrantes a sus roles de otros líderes de roles sobre la ejecución de sus propias próximas acciones. Sin embargo, puede retrasar el procesamiento de mensajes hasta que pueda procesarlos por lotes en un momento conveniente, siempre que su procesamiento aún sea oportuno. El procesamiento incluye participar en cualquier deber en este artículo y luego compartir cómo procesó el mensaje cuando lo solicite. El procesamiento no incluye la ejecución de próximas acciones o proyectos que registre.
 - **(b) Reuniones:** Debe priorizar la asistencia a cualquier reunión definida en esta Constitución sobre la ejecución de sus propias próximas acciones, pero solo cuando otro/a socio/a solicite explícitamente esta priorización para una reunión específica. Aún así, puede rechazar la solicitud si ya tiene planes programados para la hora de la reunión.
-- **(c) Prioridades del círculo:** Al elegir en qué trabajar en un rol, debe considerar cualquier estrategia oficial o priorización relativa de ese rol, de cualquier círculo que tenga ese rol y de cualquier supercírculo del mismo. Luego debe tratar estas prioridades oficiales como más importantes para la Organización que sus propias prioridades individuales o su propio juicio sobre las prioridades de la Organización. Las prioridades oficiales de un círculo son aquellas definidas por un líder de círculo, o por cualquier otro rol o proceso con la autoridad para resolver conflictos de prioridad y definir estrategias para ese círculo.
-- **(d) Fechas límite:** Si la gobernanza o cualquier estrategia oficial o priorización de un círculo incluye una fecha límite que especifica cuándo se debe hacer algo, nadie puede interpretar eso como un mandato para cumplir con esa fecha límite, independientemente del impacto de hacerlo. En cambio, debe interpretar eso como una priorización oficial de cualquier acción necesaria para cumplir con ese plazo sobre cualquier otra acción para ese círculo, y actuar en consecuencia. Un líder de círculo u otro rol o proceso con la autoridad para resolver conflictos de prioridad entre roles pueden anular esta priorización.
+- **(c) Prioridades del círculo:** Al elegir en qué trabajar en un rol, debe considerar cualquier estrategia oficial o priorización relativa de ese rol, de cualquier círculo que tenga ese rol y de cualquier supercírculo del mismo. Luego debe tratar estas prioridades oficiales como más importantes para la Organización que sus propias prioridades individuales o su propio juicio sobre las prioridades de la Organización. Las prioridades oficiales de un círculo son aquellas definidas por un Líder de Círculo, o por cualquier otro rol o proceso con la autoridad para resolver conflictos de prioridad y definir estrategias para ese círculo.
+- **(d) Fechas límite:** Si la gobernanza o cualquier estrategia oficial o priorización de un círculo incluye una fecha límite que especifica cuándo se debe hacer algo, nadie puede interpretar eso como un mandato para cumplir con esa fecha límite, independientemente del impacto de hacerlo. En cambio, debe interpretar eso como una priorización oficial de cualquier acción necesaria para cumplir con ese plazo sobre cualquier otra acción para ese círculo, y actuar en consecuencia. Un Líder de Círculo u otro rol o proceso con la autoridad para resolver conflictos de prioridad entre roles pueden anular esta priorización.
 
 ### 2.4 Acuerdos relacionales
 
@@ -173,15 +173,15 @@ Como socio/a, tiene el deber de alinear su comportamiento con cualquier acuerdo 
 
 ## Artículo 3: Reuniones tácticas
 
-Cualquier socio/a puede convocar una ***“reunión táctica”*** para ayudar a los socios a involucrarse en las responsabilidades y deberes propias y de los demás. Además, el/la secretario/a de cada círculo es responsable de programar reuniones tácticas periódicas para el círculo.
+Cualquier socio/a puede convocar una ***“reunión táctica”*** para ayudar a los socios a involucrarse en las responsabilidades y deberes propias y de los demás. Además, el Secretario de cada círculo es responsable de programar reuniones tácticas periódicas para el círculo.
 
 ### 3.1 Asistencia
 
-Para las reuniones tácticas regulares convocadas por el/la secretario/a de un círculo, se invita a todos los roles del círculo a menos que una política indique lo contrario. Para otras reuniones tácticas, el/la socio/a convocante de la reunión debe especificar los roles invitados a esa reunión. Luego, se invita a todos los socios que actúan como líderes de esos roles a asistir y representar esos roles, a menos que el convocante restrinja la invitación para incluir solo un subconjunto de líderes de roles para un rol.
+Para las reuniones tácticas regulares convocadas por el Secretario de un círculo, se invita a todos los roles del círculo a menos que una política indique lo contrario. Para otras reuniones tácticas, el/la socio/a convocante de la reunión debe especificar los roles invitados a esa reunión. Luego, se invita a todos los socios que actúan como líderes de esos roles a asistir y representar esos roles, a menos que el convocante restrinja la invitación para incluir solo un subconjunto de líderes de roles para un rol.
 
 ### 3.2 Proceso de reunión
 
-El/La facilitador/a de un círculo es responsable de facilitar las reuniones tácticas regulares del círculo, y su secretario/a es responsable de registrar y publicar los resultados de las reuniones tácticas. Para las reuniones tácticas convocadas por alguien que no sea el/la secretario/a del círculo, el/la socio/a que convoque una reunión táctica debe facilitarla y anotar sus resultados, o designar a otra persona voluntaria o rol apropiado para hacerlo.
+El Facilitador de un círculo es responsable de facilitar las reuniones tácticas regulares del círculo, y su Secretario es responsable de registrar y publicar los resultados de las reuniones tácticas. Para las reuniones tácticas convocadas por alguien que no sea el Secretario del círculo, el/la socio/a que convoque una reunión táctica debe facilitarla y anotar sus resultados, o designar a otra persona voluntaria o rol apropiado para hacerlo.
 
 A menos que una política indique lo contrario, la persona que facilita la reunión debe utilizar el siguiente proceso:
 
@@ -232,15 +232,15 @@ Como socio/a, puede usar su juicio razonable para interpretar esta Constitución
 
 #### 4.2.1 Conflictos de interpretación
 
-Como socio/a, su interpretación de esta Constitución y la gobernanza de la Organización a veces puede entrar en conflicto con la de otro/a socio/a. Cuando eso suceda, cualquiera de las partes puede pedirle al secretario/a de cualquier círculo afectado que decida qué interpretación utilizar, y el/la secretario/a es responsable de interpretar la Constitución y todo lo que esté bajo su autoridad cuando lo solicite. Después de que un/a secretario/a responde, todos deben alinearse con la decisión de ese/a secretario/a hasta que el texto o contexto relevante cambie.
+Como socio/a, su interpretación de esta Constitución y la gobernanza de la Organización a veces puede entrar en conflicto con la de otro/a socio/a. Cuando eso suceda, cualquiera de las partes puede pedirle al Secretario de cualquier círculo afectado que decida qué interpretación utilizar, y el/la Secretario es responsable de interpretar la Constitución y todo lo que esté bajo su autoridad cuando lo solicite. Después de que un Secretario responde, todos deben alinearse con la decisión de ese Secretario hasta que el texto o contexto relevante cambie.
 
-Después de pronunciarse sobre una interpretación, un/a secretario/a puede publicar la decisión y la lógica detrás de ella. Si se publica, el/la Secretario/a de ese círculo y cualquier círculo contenido deben intentar alinearse con esa lógica en cualquier fallo futuro. Sin embargo, un/a secretario/a aún puede contradecirlo una vez que una nueva circunstancia apremiante haga que la lógica sea obsoleta.
+Después de pronunciarse sobre una interpretación, un Secretario puede publicar la decisión y la lógica detrás de ella. Si se publica, el Secretario de ese círculo y cualquier círculo contenido deben intentar alinearse con esa lógica en cualquier fallo futuro. Sin embargo, un Secretario aún puede contradecirlo una vez que una nueva circunstancia apremiante haga que la lógica sea obsoleta.
 
-Puede apelar la interpretación de un/a secretario/a ante el/al secretario/a de cualquier supercírculo. Un/a Secretario/a de super-círculo puede anular la interpretación de cualquier secretario/a de sub-círculo.
+Puede apelar la interpretación de un Secretario ante el Secretario de cualquier supercírculo. Un Secretario de super-círculo puede anular la interpretación de cualquier Secretario de sub-círculo.
 
 #### 4.2.2 Derogando gobernanza inválida
 
-Cualquier socio/a puede solicitar al secretario de un círculo que se pronuncie sobre la validez de cualquier gobernanza dentro de ese círculo o cualquier sub-círculo del mismo. Si el/la secretario/a concluye que viola las reglas de esta Constitución, el/la secretario/a debe eliminarlo de los registros del Círculo. Después de hacerlo, el/la secretario/a debe comunicar rápidamente lo que eliminó y por qué a todos los socios que desempeñan roles dentro de ese círculo.
+Cualquier socio/a puede solicitar al Secretario de un círculo que se pronuncie sobre la validez de cualquier gobernanza dentro de ese círculo o cualquier sub-círculo del mismo. Si el Secretario concluye que viola las reglas de esta Constitución, el Secretario debe eliminarlo de los registros del Círculo. Después de hacerlo, el Secretario debe comunicar rápidamente lo que eliminó y por qué a todos los socios que desempeñan roles dentro de ese círculo.
 
 ### 4.3 Iniciativa individual
 
@@ -259,7 +259,7 @@ Solo puede tomar la iniciativa individual cuando se cumplan todas las condicione
 
 Al tomar la iniciativa individual, debe explicar su acción a cualquier líder de rol que crea que puede verse afectado de manera significativa. A petición de cualquiera de dichos líderes de rol, debe tomar más acciones para ayudar a resolver las tensiones creadas por su iniciativa individual. Si se lo solicita dicho líder de rol, debe abstenerse de tomar una iniciativa individual similar en el futuro.
 
-Debe priorizar la comunicación y restauración requeridas en esta sección sobre su trabajo habitual. Sin embargo, un líder de círculo de un círculo que contenga todos los roles afectados por su acción puede cambiar esta prioridad predeterminada.
+Debe priorizar la comunicación y restauración requeridas en esta sección sobre su trabajo habitual. Sin embargo, un Líder de Círculo de un círculo que contenga todos los roles afectados por su acción puede cambiar esta prioridad predeterminada.
 
 
 ## Artículo 5: Proceso de gobernanza
@@ -270,7 +270,7 @@ Cambiar la gobernanza de un círculo requiere utilizar el ***“proceso de gober
 
 Cada círculo tiene un grupo de ***"miembros del círculo"*** que pueden representar sus roles en su proceso de gobernanza.
 
-Los miembros de un círculo son los socios que cumplen su función de líder de círculo, así como cada socio que actúa como líder de un rol en el círculo. Si un rol tiene varios líderes, un círculo puede adoptar una política para limitar cuántos de ellos representan ese rol como miembros del círculo en su proceso de gobernanza.
+Los miembros de un círculo son los socios que cumplen su función de Líder de Círculo, así como cada socio que actúa como líder de un rol en el círculo. Si un rol tiene varios líderes, un círculo puede adoptar una política para limitar cuántos de ellos representan ese rol como miembros del círculo en su proceso de gobernanza.
 
 #### 5.1.1 Representantes de círculo
 
@@ -282,15 +282,15 @@ Cualquier miembro de un círculo puede solicitar una elección en cualquier mome
 
 El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un representante de círculo, a menos que una política defina un proceso alternativo. No más de una persona puede servir como representante de círculo de un círculo a la vez, a menos que la política de un círculo que lo contenga lo permita.
 
-El/La representante de círculo seleccionado/a se convierte en miembro de círculo de cualquier círculo que contenga ese círculo, con la autoridad para representar su círculo como un líder de círculo. Un círculo contenedor puede limitar o evitar que estos representantes del círculo se conviertan en miembros del círculo a través de una política, pero solo si sus roles tienen otra forma de disfrutar de una representación comparable dentro de ese círculo.
+El/La representante de círculo seleccionado/a se convierte en miembro de círculo de cualquier círculo que contenga ese círculo, con la autoridad para representar su círculo como un Líder de Círculo. Un círculo contenedor puede limitar o evitar que estos representantes del círculo se conviertan en miembros del círculo a través de una política, pero solo si sus roles tienen otra forma de disfrutar de una representación comparable dentro de ese círculo.
 
 Un círculo puede agregar responsabilidades o dominios a su propio rol de representante de círculo, así como modificar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito del rol, ni ninguna responsabilidad impuesta al rol por esta Constitución.
 
 #### 5.1.2 Facilitador/a & Secretario/a
 
-El/La facilitador/a del círculo es responsable de facilitar su proceso de gobernanza. El/La secretario/a del círculo es responsable de capturar y publicar los resultados de su proceso de gobernanza y tiene un dominio sobre los registros de gobernanza del círculo.
+El/La facilitador/a del círculo es responsable de facilitar su proceso de gobernanza. El Secretario del círculo es responsable de capturar y publicar los resultados de su proceso de gobernanza y tiene un dominio sobre los registros de gobernanza del círculo.
 
-Cualquier miembro de círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como facilitador/a o secretario/a del círculo. El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un/a facilitador/a o secretario/a. Ningún rol o política puede asignar el rol de facilitador/a o el rol de secretario/a o eliminar una asignación por cualquier otro medio, ni cambiar este proceso requerido. Normalmente, los únicos candidatos elegibles para esta elección son los miembros de un círculo. Sin embargo, una política del círculo o cualquier super-círculo puede agregar o limitar candidatos elegibles.
+Cualquier miembro de círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como facilitador/a o Secretario del círculo. El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un/a facilitador/a o Secretario. Ningún rol o política puede asignar el rol de facilitador/a o el rol de Secretario o eliminar una asignación por cualquier otro medio, ni cambiar este proceso requerido. Normalmente, los únicos candidatos elegibles para esta elección son los miembros de un círculo. Sin embargo, una política del círculo o cualquier super-círculo puede agregar o limitar candidatos elegibles.
 
 ### 5.2 Alcance de la gobernanza
 
@@ -317,7 +317,7 @@ Una Política que otorga o restringe la autoridad también se aplica en todos lo
 
 ### 5.3 Cambiando la gobernanza
 
-Cualquier miembro de un círculo puede iniciar su proceso de gobernanza proponiendo un cambio en su gobernanza. Para hacerlo, el ***“proponente”*** debe primero compartir una ***“propuesta”*** por escrito con todos los demás miembros del círculo, utilizando cualquier canal de comunicación permitido por el/la secretario/a. A continuación, esos otros miembros del círculo pueden hacer preguntas aclaratorias, compartir reacciones y plantear inquietudes sobre la adopción de la propuesta. Cada inquietud es una ***"objeción"*** si cumple con los criterios en este documento, y la persona que la planteó es el ***"objetor/a"***.
+Cualquier miembro de un círculo puede iniciar su proceso de gobernanza proponiendo un cambio en su gobernanza. Para hacerlo, el ***“proponente”*** debe primero compartir una ***“propuesta”*** por escrito con todos los demás miembros del círculo, utilizando cualquier canal de comunicación permitido por el Secretario. A continuación, esos otros miembros del círculo pueden hacer preguntas aclaratorias, compartir reacciones y plantear inquietudes sobre la adopción de la propuesta. Cada inquietud es una ***"objeción"*** si cumple con los criterios en este documento, y la persona que la planteó es el ***"objetor/a"***.
 
 Una vez que cada miembro del círculo confirma que no tiene objeciones a una propuesta, se adopta y modifica la gobernanza del círculo. Si surgen objeciones, el/la proponente y cada objetor/a deben encontrar una manera de abordar las objeciones antes de que el círculo adopte la propuesta. Después de cualquier esfuerzo de este tipo, todos los miembros del círculo deben tener otra oportunidad para presentar objeciones. Un círculo puede adoptar una política para definir un límite de tiempo para presentar objeciones, después de lo cual se supone que cualquier persona que no haya respondido no tendrá objeciones. En cualquier momento mientras el círculo procesa una propuesta de forma asincrónica, cualquier miembro del círculo puede solicitar al proponente que lleve la propuesta a una reunión para procesarla en tiempo real. A menos que una política diga lo contrario, el procesamiento asincrónico se detiene y la propuesta se considera retirada hasta que se vuelva a proponer en una reunión.
 
@@ -331,7 +331,7 @@ Para que una propuesta sea válida, el proponente debe poder:
 - **(b)** comparta un ejemplo de una situación actual pasada o presente que ilustre esa tensión; y
 - **(c)** dar una explicación razonable de cómo la propuesta habría reducido la tensión en ese ejemplo.
 
-Si en algún momento el/la facilitador/a tiene claro que una propuesta no cumple con estos criterios, el/la facilitador/a debe descartar la propuesta.
+Si en algún momento el Facilitador tiene claro que una propuesta no cumple con estos criterios, el Facilitador debe descartar la propuesta.
 
 #### 5.3.2 Requisitos de objeción
 
@@ -346,24 +346,24 @@ Sin embargo, independientemente de los criterios anteriores, una inquietud siemp
 
 #### 5.3.3 Prueba de posibles objeciones
 
-El/LA facilitador/a puede probar si una inquietud cuenta como objeción preguntando a la persona que objeta si la inquietud cumple con los criterios requeridos y cómo. Al evaluar las respuestas, el/la facilitador/a solo puede juzgar si el/la objetor/a presentó argumentos para cada criterio utilizando un razonamiento lógico. El/La facilitador/a no puede juzgar sobre la base de la precisión de un argumento o la importancia de abordarlo.
+El Facilitador puede probar si una inquietud cuenta como objeción preguntando a la persona que objeta si la inquietud cumple con los criterios requeridos y cómo. Al evaluar las respuestas, el Facilitador solo puede juzgar si el/la objetor/a presentó argumentos para cada criterio utilizando un razonamiento lógico. El Facilitador no puede juzgar sobre la base de la precisión de un argumento o la importancia de abordarlo.
 
-Cuando se reclama una objeción porque la adopción de una propuesta violaría esta Constitución, el/la facilitador/a puede pedirle al secretario/a del círculo que interprete si eso es cierto. Si el/la secretario/a decide que no lo es, el/la facilitador/a debe entonces desestimar la objeción.
+Cuando se reclama una objeción porque la adopción de una propuesta violaría esta Constitución, el Facilitador puede pedirle al Secretario del círculo que interprete si eso es cierto. Si el Secretario decide que no lo es, el Facilitador debe entonces desestimar la objeción.
 
 #### 5.3.4 Reglas de integración
 
 Al intentar resolver una objeción, se aplican las siguientes reglas:
 
-- **(a)** El/La facilitador/a debe probar una objeción si lo solicita cualquier miembro del círculo. Si no cumple con los criterios requeridos, el/la facilitador/a debe descartarlo.
-- **(b)** El/La objetante debe intentar encontrar una enmienda a la propuesta que resuelva la objeción y aún aborde la tensión del proponente. Si el/la facilitador/a cree que el/la objetante no está haciendo un intento de buena fe para hacerlo, el/la facilitador/a debe considerar abandonada la objeción y retirarla.
-- **(c)** Cualquier miembro del círculo puede hacer al proponente preguntas aclaratorias sobre la tensión detrás de la propuesta, o sobre cualquier ejemplo que el/la proponente compartió para ilustrar la tensión. Si el/la facilitador/a cree que el/la proponente no les responde de buena fe, el/la facilitador/a debe considerar que la propuesta se ha descartado.
-- **(d)** El/La objetante puede sugerir una propuesta enmendada y ofrecer argumentos razonables de por qué debería resolver la tensión. Luego, a solicitud de la persona objetante, el/la proponente debe presentar un argumento razonable de por qué la propuesta enmendada no resolvería la tensión en al menos uno de los ejemplos que el/la proponente utilizó para ilustrar la tensión. Si es necesario, el proponente puede agregar otro ejemplo para ilustrar por qué la propuesta enmendada no resolvería la tensión. Si el/la facilitador/a cree que el/la proponente no puede o no quiere hacerlo, el/la facilitador/a debe considerar que la propuesta se ha descartado.
+- **(a)** El Facilitador debe probar una objeción si lo solicita cualquier miembro del círculo. Si no cumple con los criterios requeridos, el Facilitador debe descartarlo.
+- **(b)** El/La objetante debe intentar encontrar una enmienda a la propuesta que resuelva la objeción y aún aborde la tensión del proponente. Si el Facilitador cree que el/la objetante no está haciendo un intento de buena fe para hacerlo, el Facilitador debe considerar abandonada la objeción y retirarla.
+- **(c)** Cualquier miembro del círculo puede hacer al proponente preguntas aclaratorias sobre la tensión detrás de la propuesta, o sobre cualquier ejemplo que el/la proponente compartió para ilustrar la tensión. Si el Facilitador cree que el/la proponente no les responde de buena fe, el Facilitador debe considerar que la propuesta se ha descartado.
+- **(d)** El/La objetante puede sugerir una propuesta enmendada y ofrecer argumentos razonables de por qué debería resolver la tensión. Luego, a solicitud de la persona objetante, el/la proponente debe presentar un argumento razonable de por qué la propuesta enmendada no resolvería la tensión en al menos uno de los ejemplos que el/la proponente utilizó para ilustrar la tensión. Si es necesario, el proponente puede agregar otro ejemplo para ilustrar por qué la propuesta enmendada no resolvería la tensión. Si el Facilitador cree que el/la proponente no puede o no quiere hacerlo, el Facilitador debe considerar que la propuesta se ha descartado.
 
 #### 5.3.5 Proceso de elección integrativo
 
-Cualquier miembro del círculo también puede iniciar el proceso de gobernanza del círculo convocando la elección de un/a Representante, Facilitador/a o Secretario/a del círculo. El Facilitador/a interino/a debe luego poner en marcha el ***“Proceso de Elección Integrativo”*** de la siguiente manera:
+Cualquier miembro del círculo también puede iniciar el proceso de gobernanza del círculo convocando la elección de un Representante, Facilitador o Secretario del círculo. El Facilitador/a interino/a debe luego poner en marcha el ***“Proceso de Elección Integrativo”*** de la siguiente manera:
 
-- **(a) Describir el rol:** Primero, el facilitador identifica el rol objetivo y elige un plazo para la elección. El Facilitador también puede presentar otra información relevante para la elección. Durante este paso y el siguiente, nadie puede comentar sobre ningún candidato potencial.
+- **(a) Describir el rol:** Primero, el Facilitador identifica el rol objetivo y elige un plazo para la elección. El Facilitador también puede presentar otra información relevante para la elección. Durante este paso y el siguiente, nadie puede comentar sobre ningún candidato potencial.
 - **(b) Nominar los candidatos:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
 - **(c) Ronda de compartir las nominaciones:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
 - **(d) Ronda de cambio de nominación:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
