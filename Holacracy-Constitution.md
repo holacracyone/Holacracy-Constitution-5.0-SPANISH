@@ -468,6 +468,6 @@ Una Ruptura de Proceso en un círculo no se considera automáticamente un Ruptur
 Holacracy es una marca comercial de HolacracyOne, LLC
 
 Esta traducción se comparte con la misma licencia que la <a rel="constitución original" href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md">constitución original</a>, una licencia pública internacional Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Atribución/Reconocimiento-CompartirIgual 4.0 Internacional</a>.
-Traducido al español por Mónica Expositor Blasco como coach certificada en NEOMERAKI y traductora oficial de HolacracyOne al español.
+Traducido al español por Mónica Expositor Blasco como coach certificada en <a rel="NEOMERAKI" href="https://neomeraki.es/">NEOMERAKI</a> y traductora oficial de HolacracyOne al español.
 
 ---
