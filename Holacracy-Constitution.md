@@ -189,8 +189,8 @@ A menos que una política indique lo contrario, la persona que facilita la reuni
 - **(b) Revisión de la lista de verificación:** Cada participante verifica si ha completado las acciones recurrentes de sus roles sobre las que informa regularmente en la reunión.
 - **(c) Revisión de métricas:** Cada participante comparte las métricas asociadas sus roles sobre las que informa regularmente en la reunión.
 - **(d) Novedades de progreso:** Cada participante destaca el progreso en cualquier proyecto u otra iniciativa sobre la que informan regularmente para sus roles en la reunión. Los participantes solo pueden compartir el progreso realizado desde un informe anterior, y no el estado general de ningún trabajo.
-- **(e) Generar la agenda:** Los participantes elaboran una agenda de temas para procesar dentro de la reunión. Cada participante puede agregar tantos puntos de la agenda como desee proporcionando una etiqueta corta para cada uno, sin que se permitan explicaciones ni discusiones. Los participantes pueden agregar más ítems a la agenda después de este paso, entre el procesamiento de cualquier elemento de la agenda existente.
-- **(f) Procesar ítems:** Para procesar cada ítem de la agenda, el/la propietario/a del ítem de la agenda puede hacer solicitudes a otro participante, ya sea en la capacidad general de ese participante como socio/a, o en un rol que el participante representa en la reunión. Sin embargo, las solicitudes para un rol solo se pueden realizar al servicio de un rol que el solicitante representa en la reunión. La persona que facilita la reunión administra el tiempo permitido para cada ítem de la agenda para dejar espacio para toda la agenda, y puede interrumpir el procesamiento de cualquier ítem después de su debido tiempo de reunión.
+- **(e) Generar la agenda:** Los participantes elaboran una agenda de temas para procesar dentro de la reunión. Cada participante puede agregar tantos puntos de la agenda como desee proporcionando una etiqueta corta para cada uno, sin que se permitan explicaciones ni discusiones. Los participantes pueden agregar más puntos a la agenda después de este paso, entre el procesamiento de cualquier elemento de la agenda existente.
+- **(f) Procesar puntos:** Para procesar cada punto de la agenda, el/la propietario/a del punto de la agenda puede hacer solicitudes a otro participante, ya sea en la capacidad general de ese participante como socio/a, o en un rol que el participante representa en la reunión. Sin embargo, las solicitudes para un rol solo se pueden realizar al servicio de un rol que el solicitante representa en la reunión. La persona que facilita la reunión administra el tiempo permitido para cada punto de la agenda para dejar espacio para toda la agenda, y puede interrumpir el procesamiento de cualquier punto después de su debido tiempo de reunión.
 - **(g) Ronda de cierre:** Cada participante a su vez comparte una reflexión final sobre la reunión. No se permiten respuestas.
 
 Una política de un círculo puede especificar un proceso alternativo o enmendar este proceso predeterminado para reuniones tácticas convocadas por cualquiera de los roles del círculo.
@@ -236,7 +236,7 @@ Como socio/a, su interpretación de esta Constitución y la gobernanza de la Org
 
 Después de pronunciarse sobre una interpretación, un Secretario puede publicar la decisión y la lógica detrás de ella. Si se publica, el Secretario de ese círculo y cualquier círculo contenido deben intentar alinearse con esa lógica en cualquier fallo futuro. Sin embargo, un Secretario aún puede contradecirlo una vez que una nueva circunstancia apremiante haga que la lógica sea obsoleta.
 
-Puede apelar la interpretación de un Secretario ante el Secretario de cualquier supercírculo. Un Secretario de super-círculo puede anular la interpretación de cualquier Secretario de sub-círculo.
+Puede apelar la interpretación de un Secretario ante el Secretario de cualquier supercírculo. Un Secretario de supercírculo puede anular la interpretación de cualquier Secretario de subcírculo.
 
 #### 4.2.2 Derogando gobernanza inválida
 
@@ -290,7 +290,7 @@ Un círculo puede agregar responsabilidades o dominios a su propio rol de repres
 
 El/La facilitador/a del círculo es responsable de facilitar su proceso de gobernanza. El Secretario del círculo es responsable de capturar y publicar los resultados de su proceso de gobernanza y tiene un dominio sobre los registros de gobernanza del círculo.
 
-Cualquier miembro de círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como facilitador/a o Secretario del círculo. El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un/a facilitador/a o Secretario. Ningún rol o política puede asignar el rol de facilitador/a o el rol de Secretario o eliminar una asignación por cualquier otro medio, ni cambiar este proceso requerido. Normalmente, los únicos candidatos elegibles para esta elección son los miembros de un círculo. Sin embargo, una política del círculo o cualquier super-círculo puede agregar o limitar candidatos elegibles.
+Cualquier miembro de círculo puede solicitar una elección en cualquier momento para seleccionar o reemplazar a alguien como facilitador/a o Secretario del círculo. El círculo debe utilizar el Proceso de Elección Integrativa definido en este documento para seleccionar un/a facilitador/a o Secretario. Ningún rol o política puede asignar el rol de facilitador/a o el rol de Secretario o eliminar una asignación por cualquier otro medio, ni cambiar este proceso requerido. Normalmente, los únicos candidatos elegibles para esta elección son los miembros de un círculo. Sin embargo, una política del círculo o cualquier supercírculo puede agregar o limitar candidatos elegibles.
 
 ### 5.2 Alcance de la gobernanza
 
@@ -298,8 +298,8 @@ Dentro del proceso de gobernanza de un círculo, sus miembros del círculo puede
 
 - **(a)** definir, modificar o eliminar los roles del círculo; y
 - **(b)** definir, modificar o eliminar las políticas del círculo; y
-- **(c)** mover los propios roles o políticas del círculo a un sub-círculo o cualquier subcírculo del mismo, pero solo si promulgan el propósito o las responsabilidades de ese subcírculo; y
-- **(d)** mover roles o políticas desde dentro de un sub-círculo o cualquier sub-círculo del mismo al círculo, pero solo si ya no son relevantes para promulgar el propósito o responsabilidades de ese subcírculo; y
+- **(c)** mover los propios roles o políticas del círculo a un subcírculo o cualquier subcírculo del mismo, pero solo si promulgan el propósito o las responsabilidades de ese subcírculo; y
+- **(d)** mover roles o políticas desde dentro de un subcírculo o cualquier subcírculo del mismo al círculo, pero solo si ya no son relevantes para promulgar el propósito o responsabilidades de ese subcírculo; y
 - **(e)** celebrar elecciones para cualquier rol elegido dentro del círculo.
 
 Ninguna otra decisión es un resultado válido del proceso de gobernanza de un círculo.
@@ -313,7 +313,7 @@ Una póliza solo puede ser uno o más de los siguientes casos:
 - **(c)** una concesión de autoridad que permite a las personas o los roles no están autorizados a controlar o afectar uno de los dominios del círculo, o una restricción sobre cómo pueden hacerlo cuando estén autorizados ; o
 - **(d)** una regla que cambia una regla o proceso predeterminado en esta Constitución, si ese cambio se permite explícitamente.
 
-Una Política que otorga o restringe la autoridad también se aplica en todos los sub-círculos, de manera recurrente, a menos que se indique lo contrario. Una política que cambia una regla o proceso predeterminado en esta Constitución se aplica solo dentro del círculo que contiene la política o, si se indica explícitamente, también dentro de todos los sub-círculos, de manera recurrente. En el último caso, un sub-círculo aún puede anular esa política a través de uno de las suyas, a menos que se prohíba explícitamente en la política original.
+Una Política que otorga o restringe la autoridad también se aplica en todos los subcírculos, de manera recurrente, a menos que se indique lo contrario. Una política que cambia una regla o proceso predeterminado en esta Constitución se aplica solo dentro del círculo que contiene la política o, si se indica explícitamente, también dentro de todos los subcírculos, de manera recurrente. En el último caso, un subcírculo aún puede anular esa política a través de uno de las suyas, a menos que se prohíba explícitamente en la política original.
 
 ### 5.3 Cambiando la gobernanza
 
@@ -359,112 +359,112 @@ Al intentar resolver una objeción, se aplican las siguientes reglas:
 - **(c)** Cualquier miembro del círculo puede hacer al proponente preguntas aclaratorias sobre la tensión detrás de la propuesta, o sobre cualquier ejemplo que el/la proponente compartió para ilustrar la tensión. Si el Facilitador cree que el/la proponente no les responde de buena fe, el Facilitador debe considerar que la propuesta se ha descartado.
 - **(d)** El/La objetante puede sugerir una propuesta enmendada y ofrecer argumentos razonables de por qué debería resolver la tensión. Luego, a solicitud de la persona objetante, el/la proponente debe presentar un argumento razonable de por qué la propuesta enmendada no resolvería la tensión en al menos uno de los ejemplos que el/la proponente utilizó para ilustrar la tensión. Si es necesario, el proponente puede agregar otro ejemplo para ilustrar por qué la propuesta enmendada no resolvería la tensión. Si el Facilitador cree que el/la proponente no puede o no quiere hacerlo, el Facilitador debe considerar que la propuesta se ha descartado.
 
-#### 5.3.5 Proceso de elección integrativo
+#### 5.3.5 Proceso de Elección Integrador
 
-Cualquier miembro del círculo también puede iniciar el proceso de gobernanza del círculo convocando la elección de un Representante, Facilitador o Secretario del círculo. El Facilitador/a interino/a debe luego poner en marcha el ***“Proceso de Elección Integrativo”*** de la siguiente manera:
+Cualquier miembro del círculo también puede iniciar el proceso de gobernanza del círculo convocando la elección de un Representante, Facilitador o Secretario del círculo. El Facilitador/a interino/a debe luego poner en marcha el ***“Proceso de Elección Integrador”*** de la siguiente manera:
 
 - **(a) Describir el rol:** Primero, el Facilitador identifica el rol objetivo y elige un plazo para la elección. El Facilitador también puede presentar otra información relevante para la elección. Durante este paso y el siguiente, nadie puede comentar sobre ningún candidato potencial.
-- **(b) Nominar los candidatos:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Ronda de compartir las nominaciones:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Ronda de cambio de nominación:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Hacer una propuesta:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Ronda de objeciones:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(b) Nominar los candidatos:** Cada miembro del círculo usa una papeleta u otro foro privado para nombrar al candidato elegible que el miembro del círculo cree que es el más adecuado para el rol. Los miembros del círculo también deben etiquetar su papeleta con su propio nombre, y nadie puede abstenerse o nominar a varias personas.
+- **(c) Ronda de compartir las nominaciones:** Durante este paso, el Facilitador comparte cada nominación con todos los miembros del círculo. Para cada uno, el nominador indica por qué cree que su nominado sería una buena opción para el rol, y nadie más comenta nada. El nominador no puede comentar sobre otros candidatos potenciales más allá de su nominado.
+- **(d) Ronda de cambio de nominación:** Una vez que se hayan compartido todas las nominaciones, cualquier miembro del círculo puede cambiar su nominación y explicar el motivo del cambio. No se permiten comentarios por parte de los demás miembros.
+- **(e) Hacer una propuesta:** El Facilitador cuenta las nominaciones y hace una propuesta para elegir al candidato con más. Si hay un empate, el Facilitador puede hacer una de las siguientes cosas: (i) si solo uno de los candidatos empatados se ha nominado a sí mismo, proponer a esa persona; o (ii) si la persona que actualmente ocupa el cargo se encuentra entre los empatados, proponer a esa persona; o (iii) seleccionar a ciegas al azar a uno de los candidatos empatados y proponer a esa persona; o (iv) volver al paso anterior y pedir a cada miembro del círculo que nominó a alguien que no sea un candidato empatado que cambie esa nominación a uno de los candidatos empatados.
+- **(f) Ronda de objeciones:** El Facilitador pregunta a cada miembro del círculo si ven alguna objeción a la propuesta. Si surge alguna objeción, el Facilitador puede permitir la discusión para intentar resolverla o descartar la propuesta. Si se descarta, el Facilitador debe volver al paso anterior en este proceso, ignorar todas las nominaciones del candidato descartado y aplicar las reglas del paso anterior para seleccionar otro candidato para proponer en su lugar.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+Un Círculo puede adoptar una política para definir un límite de tiempo para nominar a un candidato o responder a una propuesta durante el Proceso de Elección Integrativa. Después de que se alcance ese límite de tiempo, el Facilitador debe excluir a cualquier persona que no haya respondido del resto del proceso.
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+El Facilitador de un círculo es responsable de convocar nuevas elecciones para los roles electos del círculo después de que expire cada período electoral.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.6 Sustitutos para el Facilitador y Secretario
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+Un sustituto puede actuar como Facilitador o Secretario mientras el rol esté vacante. Un sustituto también puede completar cuando el Facilitador o el Secretario normal no está disponible cuando es necesario, o solicita un sustituto por cualquier motivo.
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+Siempre que se necesite un sustituto, el sustituto es, en este orden de prioridad:
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+- **(a)** alguien especificado por la persona a reemplazar; o
+- **(b)** para el Facilitador, el Secretario en funciones del círculo, y para el Secretario, el Facilitador en funciones del círculo;
+- **(c)** el Líder de Círculo del círculo o, si hay varios Líderes de Círculo, el primero en declararse actuando como sustituto; o
+- **(d)** el primer miembro del círculo en declararse como sustituto.
 
-### 5.4 Governance Meetings
+### 5.4 Reuniones de gobernanza
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+Además de procesar propuestas realizadas de forma asincrónica fuera de las reuniones, cada círculo también celebrará ***"Reuniones de Gobernanza"*** regulares para implementar el Proceso de Gobernanza del círculo en tiempo real.
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+El Secretario del círculo es responsable de programar sus reuniones de gobernanza. Además de las reuniones de gobernanza del círculo programadas regularmente, el Secretario debe programar reuniones de gobernanza especiales con prontitud si lo solicita cualquier miembro del círculo. Además, el solicitante puede especificar la intención y los límites de cambio de una reunión de gobernanza especial. Esto puede incluir centrar la reunión en una tensión específica o limitarla a modificar solo determinados roles. En ese caso, la autoridad de esa reunión de gobernanza especial se limita a procesar únicamente propuestas para la intención declarada, y solo a realizar cambios dentro de los límites establecidos.
 
-#### 5.4.1 Attendance
+#### 5.4.1 Participación
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+Todos los miembros de un círculo pueden participar en sus reuniones de gobernanza. El Facilitador en funciones y el Secretario también pueden participar incluso si no son miembros del círculo. En ese caso, se convierten en miembros temporales del círculo durante la reunión.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+Como Representante de un círculo, puede invitar a cualquier socio a unirse a la reunión de gobernanza de cualquier círculo que contenga inmediatamente su círculo. Solo puede extender esta invitación a un socio a la vez, y solo para ayudar en el procesamiento de una tensión específica que afecte al círculo que representa. También debe sentir esta tensión y creer que tiene sentido procesarla en el círculo. Su invitado se convierte en miembro temporal del círculo durante la reunión o hasta que retire la invitación. Su invitado puede representar a su círculo junto con usted en la reunión, pero solo mientras procesa esa tensión específica.
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+Más allá de lo anterior, nadie más puede participar en las reuniones de gobernanza de un círculo.
 
-#### 5.4.2 Notice & Duration
+#### 5.4.2 Notificación y duración
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+Un círculo solo puede llevar a cabo una reunión de gobernanza si el Secretario les dio a todos los miembros del círculo una notificación con una anticipación razonable de la reunión. Más allá de eso, no se requiere quórum para que un círculo lleve a cabo una reunión de gobernanza, a menos que una política lo especifique.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+Las reuniones de gobernanza finalizan una vez alcanzan la duración inicialmente programada por el Secretario. El Secretario puede optar por extender la duración dentro de la reunión, pero solo si ningún miembro del círculo solicita lo contrario.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+Cualquier miembro del círculo que se pierda una parte o la totalidad de una reunión de gobernanza cuenta como haber tenido la oportunidad de plantear inquietudes sobre las propuestas realizadas en la misma. Por lo tanto, un círculo puede adoptar propuestas en una reunión de gobernanza sin tener en cuenta los miembros ausentes.
 
-#### 5.4.3 Meeting Process
+#### 5.4.3 Proceso de la reunión
 
-The Facilitator must use the following process for Governance Meetings:
+El Facilitador debe utilizar el siguiente proceso para las reuniones de gobernanza:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Ronda de inicio:** Cada participante, a su vez, comparte su estado actual u ofrece otro comentario de apertura para la reunión. No se permiten respuestas.
+- **(b) Generar y procesar la agenda:** El Facilitador elabora una agenda de tensiones para procesar, luego procesa cada punto de la agenda por turno.
+- **(c) Ronda de cierre:** Cada participante a su vez comparte una reflexión final sobre la reunión. No se permiten responder a las reflexiones de los demás.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+En cualquier momento durante este proceso, un participante puede solicitar una pausa ***“tiempo muerto”***. El Facilitador puede optar por conceder o rechazar esta solicitud. Durante el tiempo muerto, los participantes pueden discutir asuntos administrativos o las reglas de esta Constitución. No pueden usar el tiempo de espera para trabajar en la resolución de una tensión, propuesta u objeción. El Facilitador puede finalizar un tiempo muerto en cualquier momento y reanudar el proceso normal de la reunión.
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+Una política del círculo puede agregarse a este proceso, pero no puede entrar en conflicto con ninguna regla o requisito definido en este artículo.
 
-#### 5.4.4 Agenda Building
+#### 5.4.4 Generando la agenda
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+El Facilitador elabora una agenda de tensiones para procesar solicitando puntos de la agenda de todos los participantes. El Facilitador debe hacer esto en la reunión y no de antemano. Cada participante puede agregar tantos puntos de agenda como desee proporcionando una etiqueta corta para cada uno, sin que se permitan explicaciones ni discusiones. Los participantes pueden agregar más puntos a la agenda durante la reunión, entre el procesamiento de cualquier punto existente de la agenda.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+Para una reunión de gobernanza habitual, el Facilitador puede elegir el orden en el que procesar los puntos de la agenda. Sin embargo, a petición de un participante de la reunión, cualquier punto de la agenda que requiera una elección debe ir antes que todos los demás. Para una reunión de gobernanza especial programada a solicitud de un participante, ese participante puede elegir el orden de la agenda.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+Los puntos de la agenda se procesan de uno en uno. Para procesar una solicitud de elección, el Facilitador utiliza el Proceso de Elección Integrador. Para procesar cualquier otra cosa, el Facilitador utiliza el proceso de Toma de Decisiones Integrador que se define a continuación.
 
-#### 5.4.5 Integrative Decision-Making Process
+#### 5.4.5 Proceso de Toma de Decisiones Integrador
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+El Facilitador debe poner en marcha el *** “Proceso de Toma de Decisiones Integrador” *** de la siguiente manera:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(a) Presentar la propuesta:** Primero, el proponente puede describir la tensión y presentar una propuesta para abordarla. A solicitud del proponente, el Facilitador puede permitir que otros ayuden a elaborar una propuesta. Sin embargo, el Facilitador debe enfocar esta ayuda únicamente para llegar a una propuesta inicial que trate la tensión del proponente. El Facilitador debe prohibir la discusión de otras tensiones o inquietudes sobre la propuesta.
+- **(b) Clarificar preguntas:** Una vez que el proponente hace una propuesta, otros pueden hacer preguntas para comprender mejor la propuesta o la tensión detrás de ella. El proponente puede responder a cada pregunta o puede negarse a hacerlo. El Facilitador debe detener cualquier reacción u opinión expresada sobre la propuesta y evitar discusiones de cualquier tipo. Los participantes también pueden pedirle al Secretario que lea la propuesta o muestre cualquier gobernanza existente, durante este paso o en cualquier otro momento en el que se le permita hablar al participante, y el Secretario debe hacerlo.
+- **(c) Ronda de reacciones:** A continuación, cada participante, excepto el proponente, puede compartir sus reacciones a la propuesta, una persona cada vez. El Facilitador debe detener inmediatamente cualquier comentario fuera de turno, cualquier intento de involucrar a otros en un diálogo y cualquier reacción a otras reacciones en lugar de a la propuesta.
+- **(d) Clarificación opcional:** A continuación, el proponente puede compartir comentarios en respuesta a las reacciones y realizar modificaciones a la propuesta. Sin embargo, la intención principal de cualquier enmienda debe ser abordar mejor la tensión del proponente y no las tensiones planteadas por otros. El Facilitador debe detener inmediatamente los comentarios de cualquier persona que no sea el proponente o el Secretario. Cualquier compromiso del Secretario debe enfocarse únicamente en capturar la propuesta enmendada.
+- **(e) Ronda de objecciones:** A continuación, cada participante, uno cada vez, puede plantear inquietudes sobre la adopción de la propuesta. El Facilitador debe capturar estas inquietudes como objeciones o probarlas para ver si cumplen con los criterios de objeción y capturar las que sí lo hacen. Si no hay objeciones, se adopta la propuesta. Al probar las inquietudes y capturar las objeciones, el Facilitador debe detener y rechazar la discusión o las respuestas de cualquier tipo de cualquier persona que no sea el objetante.
+- **(f) Integración:** Si hay objeciones, el Facilitador se enfoca en cada una, una a una. Para cada una, los participantes intercambian ideas para encontrar una posible enmienda a la propuesta para resolver la objeción. El Facilitador marca una objeción como resuelta una vez que el objetor confirma que la propuesta enmendada no desencadenaría la objeción, y el proponente confirma que todavía resuelve su tensión. Durante este paso, el Facilitador debe aplicar las reglas de integración descritas en este artículo. Una vez que se resuelven todas las objeciones, el Facilitador vuelve a la ronda de objeciones con la propuesta modificada.
 
-### 5.5 Process Breakdown
+### 5.5 Ruptura de proceso
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+Un ***“Ruptura de Proceso”*** ocurre cuando un círculo muestra un patrón de comportamiento o resultados que violan las reglas de esta Constitución. El Facilitador o el Secretario de un círculo pueden declarar una Ruptura de Proceso en su propio círculo o en cualquier subcírculo, usando su juicio razonable. Cualquier socio interesado puede además solicitar que un Facilitador revise un subcírculo para investigar un posible Ruptura de Proceso, y el Facilitador es responsable de auditar las reuniones y registros de un subcírculo a petición y declarar un Ruptura de Proceso si se descubre uno.
 
-#### 5.5.1 Breakdown from Failed Governance
+#### 5.5.1 Ruptura por gobernanza fallida
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+El Facilitador de un círculo también puede declarar una ruptura de proceso en el círculo si una propuesta no logra llegar a una resolución después de que los involucrados dedican una cantidad razonable de tiempo y esfuerzo a buscar una resolución.
 
-#### 5.5.2 Process Restoration
+#### 5.5.2 Restauración de proceso
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Siempre que una parte autorizada declara una ruptura de proceso dentro de un círculo, ocurre lo siguiente:
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
+- **(a)** el Facilitador obtiene la autoridad para juzgar la lógica y la relevancia de cualquier argumento presentado para validar propuestas u objeciones en el círculo; y
+- **(b)** el Facilitador del supercírculo se asigna un proyecto para restaurar adecuadamente el proceso dentro del círculo; y
+- **(c)** el Facilitador del supercírculo obtiene la autoridad para asumir el cargo de Facilitador o Secretario del círculo; y
+- **(d)** el Facilitador del supercírculo puede asignar un Líder de Círculo adicional al círculo durante la duración de la ruptura de proceso. Cualquier decisión que tome esa persona como Líder de Círculo reemplaza y previene cualquier decisión contradictoria de otro Líder de Círculo.
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+Estas autoridades terminan tan pronto como se restablece el debido proceso en el círculo, según lo evaluado por el Facilitador del supercírculo.
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+Si el círculo con Ruptura de Proceso no tiene supercírculo, entonces los poderes sobre todo se otorgan a su propio Facilitador.
 
-#### 5.5.3 Escalation of Process Breakdown
+#### 5.5.3 Escalación de la Ruptura de Proceso
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+Una Ruptura de Proceso en un círculo no se considera automáticamente un Ruptura de Proceso de su supercírculo. Sin embargo, si permanece sin resolver por un tiempo irrazonable, entonces el supercírculo también se considera en un Ruptura de Proceso.
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Esta obra está autorizada bajo una licencia pública Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Atribución/Reconocimiento-CompartirIgual 4.0 Internacional</a>.
 
 ---
