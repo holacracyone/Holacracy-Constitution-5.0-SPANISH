@@ -2,20 +2,20 @@
 
 ## Preámbulo
 
-Las personas que ratifican la presente ***“Constitución”*** (en adelante ***“ratificadores”***) como la estructura de autoridad formal de la ***“Organización”*** especificada. Al hacerlo, los ratificadores ceden su poder de dirección y gestión de la Organización a las reglas y procesos aquí establecidos, a excepción de los poderes que los ratificadores no tienen la autoridad de delegar. Los ratificadores o sus sucesores pueden enmendar esta Constitución o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
+Las personas que ratifican la presente ***“Constitución”*** (en adelante ***“ratificadores”***), la adoptan como la estructura de autoridad formal de la ***“Organización”*** especificada. Al hacerlo, los ratificadores ceden su poder de dirección y gestión de la Organización a las reglas y procesos aquí establecidos, a excepción de los poderes que los ratificadores no tienen la autoridad de delegar. Los ratificadores o sus sucesores pueden enmendar esta Constitución o derogarla utilizando cualquier autoridad en la que se basaron para adoptarla, siempre que las enmiendas se hagan por escrito. 
 
-Todas las políticas y sistemas existentes que la Organización tuviera en vigor antes de adoptar esta Constitución continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliados o modificados excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden aún más peso y autoridad tan pronto como los procesos de esta Constitución creen algo que los reemplace o contradiga.  
+Todas las políticas y sistemas existentes que la Organización tuviera en vigor antes de adoptar esta Constitución continúan en plena vigencia después de su adopción, sin embargo, no pueden ser ampliadas o modificadas excepto por las autoridades y los procesos definidos en ella. Estas políticas y sistemas heredados pierden su peso y autoridad tan pronto como los procesos de esta Constitución generen algo que los reemplace o contradiga.  
 
-La Organización puede designar a otros ***“socios”*** además de los ratificadores para ayudar con su gobierno y operaciones, siempre que dichos socios también hayan acordado cumplir con todos los términos relevantes de esta Constitución. Dentro de esa restricción, la Organización puede definir cómo otorga o elimina el estatus de "Socio" o "Socia", a menos que los ratificadores especifiquen lo contrario, y los ratificadores pueden especificar los socios iniciales para la Organización.
+La Organización puede designar a otros ***“Socios”*** además de los ratificadores para ayudar con su gobierno y operaciones, siempre que dichos Socios también hayan acordado cumplir con todos los términos relevantes de esta Constitución. Dentro de esa restricción, la Organización puede definir cómo otorga o elimina el estatus de "Socio" o "Socia", a menos que los ratificadores especifiquen lo contrario. Los ratificadores pueden especificar los Socios iniciales para la Organización.
 
-Cada socio puede confiar en las autoridades otorgadas por esta Constitución en la medida en que los ratificadores tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un socio provienen de esta Constitución y los resultados de sus procesos, y de cualquier deber legal que el socio tenga para con la Organización y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un socio, ni ningún dictado emitido fuera de la autoridad otorgada por esta Constitución. 
+Cada Socio puede confiar en las autoridades otorgadas por esta Constitución en la medida en que los ratificadores tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un Socio provienen de esta Constitución y los resultados de sus procesos, y de cualquier deber legal que el Socio tenga para con la Organización y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un Socio, ni ningún dictado emitido fuera de la autoridad otorgada por esta Constitución. 
 
 
 ## Artículo 1: Estructura organizativa
 
 ### 1.1 Definición de rol
 
-Un ***“rol”*** es un constructo organizacional que una persona puede cumplir y luego dinamizar en nombre de la Organización. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
+Un ***“rol”*** es un constructo organizacional que una persona puede ocupar y luego dinamizar en nombre de la Organización. Quien ocupa un rol es un ***"líder de rol"*** para ese rol. 
 
 Una definición de rol consta de un nombre descriptivo y uno o más de los siguientes elementos:
 
@@ -35,7 +35,7 @@ Usted es responsable de comparar la expresión actual del propósito y responsab
 
 #### 1.2.2 Procesamiento del propósito y las responsabilidades
 
-Usted es responsable de considerar de forma periódico cómo implementar el propósito de su rol y cada responsabilidad, definiendo:
+Usted es responsable de considerar de forma periódica cómo implementar el propósito de su rol y cada responsabilidad, definiendo:
 
 - **(a)** ***“Próximas-acciones”***, que son acciones útiles que podría tomar de inmediato, al menos en ausencia de prioridades en competencia; y
 - **(b)** ***“Proyectos”***, que son resultados específicos hacia los que sería útil trabajar, al menos en ausencia de prioridades en competencia.
@@ -46,15 +46,15 @@ Usted es responsable de definir regularmente las próximas acciones para cada un
 
 #### 1.2.4 Seguimiento de proyectos, próximas acciones y tensiones
 
-Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y próximas acciones para su rol en listas escritas. También debe realizar un seguimiento de las tensiones que desea resolver, al menos hasta que las procese en proyectos o próximas acciones. También es responsable de revisar y actualizar periódicamente estas listas, para mantenerlas como una fuente confiable del trabajo potencial del rol.
+Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y próximas-acciones para su rol en listas escritas. También debe realizar un seguimiento de las tensiones que desea resolver, al menos hasta que las procese en proyectos o próximas acciones. También es responsable de revisar y actualizar periódicamente estas listas, para mantenerlas como una fuente confiable del trabajo potencial del rol.
 
 #### 1.2.5 Ejecución de próximas acciones
 
-Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas acciones que podría tomar y de ejecutar las que agreguen más valor a la Organización.
+Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas-acciones que podría tomar y de ejecutar las que agreguen más valor a la Organización.
 
 ### 1.3 Círculos
 
-Un ***“círculo”*** es un contenedor para organizar roles y políticas en torno a un propósito común. Los roles y las políticas dentro de un círculo constituyen su ***“gobierno”*** en funciones.
+Un ***“círculo”*** es un contenedor para organizar roles y políticas en torno a un propósito común. Los roles y las políticas dentro de un círculo constituyen su ***“gobernanza”***.
 
 #### 1.3.1 Desglose de roles
 
@@ -72,13 +72,13 @@ El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo p
 
 #### 1.3.3 Círculo de anclaje 
 
-El círculo más amplio que contiene el propósito de toda la Organización es su ***“Círculo de Anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia organización controla, y no tiene un supercírculo. El círculo de anclaje puede cambiar su propio propósito o aclarar sus propias responsabilidades a través de una política.
+El círculo más amplio que contiene el propósito de toda la Organización es su ***“círculo de anclaje”***. El círculo de anclaje tiene todas las autoridades y los dominios que la propia organización controla, y no tiene un supercírculo. El círculo de anclaje puede cambiar su propio propósito o aclarar sus propias responsabilidades a través de una política.
 
 Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro del círculo de anclaje al adoptar esta Constitución.
 
 #### 1.3.4 Vinculación con otros círculos
 
-Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súper-círculo del mismo lo invita.
+Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súpercírculo del mismo lo invita.
 
 Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede agregar asignaciones al rol y luego cambiar lo que agrega. Sin embargo, no puede eliminar el rol ni cambiar nada agregado por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que agregue. La autoridad para agregar o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
 
@@ -86,17 +86,17 @@ Un círculo puede desvincular un rol eliminando la política que lo invitó a vi
 
 #### 1.3.5 Roles de Facilitador y Secretario
 
-Cualquier círculo puede designar a alguien como ***"Facilitador/a"*** del círculo. El Facilitador seleccionado/a cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
+Cualquier círculo puede designar a alguien como ***"Facilitador/a"*** del círculo. El Facilitador seleccionado cumple un ***“rol de facilitador”*** en el círculo, con un propósito de “Prácticas operativas y de gobernanza del círculo alineadas con la Constitución”. 
 
-Cualquier círculo puede nombrar a alguien como ***"Secretario/a"*** del círculo. El Secretario seleccionado/a cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
+Cualquier círculo puede nombrar a alguien como ***"Secretario/a"*** del círculo. El Secretario seleccionado cumple un ***"rol de secretario"*** en el círculo, con el propósito de "Estabilizar los registros y reuniones del círculo requeridos constitucionalmente".
 
 Un círculo puede agregar responsabilidades o dominios a su propio rol de Facilitador o Secretario, así como enmendar o eliminar esas adiciones. Ningún círculo puede enmendar o eliminar el propósito de cualquiera de estos dos roles, ni las responsabilidades o dominios asignados a estos roles por esta Constitución.
 
 ### 1.4 Líderes de círculo
 
-Servir como líder de rol también significa servir como ***“Líder de Círculo”*** dentro del círculo interno de ese rol y, por lo tanto, ocupar dentro el ***“rol de Líder de Círculo”***. El rol de Líder de Círculo tiene el propósito general de ese rol más amplio y todas las responsabilidades de ese rol en la medida en que no estén cubiertas por otros roles o procesos dentro del círculo. 
+Servir como Líder de Rol también significa servir como ***“Líder de Círculo”*** dentro del círculo interno de ese rol y, por lo tanto, ocupar dentro el ***“rol de Líder de Círculo”***. El rol de Líder de Círculo tiene el propósito general de ese rol más amplio y todas las responsabilidades de ese rol en la medida en que no estén cubiertas por otros roles o procesos dentro del círculo. 
 
-El Círculo de Anclaje no tiene Líderes de Círculo, a menos que una política del círculo indique lo contrario.
+El Círculo de Anclaje no tiene líderes de círculo, a menos que una política del círculo indique lo contrario.
 
 #### 1.4.1 Asignando roles
 
@@ -108,9 +108,9 @@ Nadie más que un Líder de Círculo puede asignar un rol o revocar una asignaci
 
 #### 1.4.2 Cubriendo roles vacantes
 
-Siempre que un rol en un círculo no se cubra, el Líder de Círculo se considera automáticamente el líder del rol vacante.
+Siempre que un rol en un círculo no se cubra, el Líder de Círculo se considera automáticamente el Líder de Rol del rol vacante.
 
-Cuando un rol lo ocupan solo personas que no son socios de la organización, cada Líder de Círculo se considera automáticamente un líder de ese rol también. Sin embargo, esta asignación predeterminada solo se aplica en la medida en que los no-socios no estén cumpliendo activamente con las responsabilidades y deberes relevantes que tendría un socio.
+Cuando un rol lo ocupan solo personas que no son Socios de la organización, cada Líder de Círculo se considera automáticamente un Líder de Rol de ese rol también. Sin embargo, esta asignación predeterminada solo se aplica en la medida en que los no-Socios no estén cumpliendo activamente con las responsabilidades y deberes relevantes que tendría un Socio.
 
 #### 1.4.3 Definiendo prioridades y estrategias
 
@@ -120,7 +120,7 @@ Un Líder de Círculo puede juzgar el valor relativo de los esfuerzos potenciale
 
 Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí o a cualquier rol en el círculo, un Líder de Círculo puede actualizar esa referencia para referirse en su lugar a otro rol en el círculo. Esta aclaración no se considera un cambio en la gobernanza de ese círculo.
 
-#### 1.4.5 Modificación del rol líder de círculo
+#### 1.4.5 Modificación del rol Líder de Círculo
 
 Un círculo no puede modificar el propósito de su rol Líder de Círculo ni eliminar el rol en sí.
 
@@ -133,55 +133,55 @@ Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o funci
 
 ### 2.1 Deber de transparencia
 
-Como socio/a, tiene el deber de brindar transparencia a los líderes de roles de la organización cuando lo soliciten, de la siguiente manera:
+Como Socio o Socia, tiene el deber de brindar transparencia a los Líderes de Roles de la organización cuando lo soliciten, de la siguiente manera:
 
-- **(a) Proyectos & Próximas acciones:** Debe compartir todos los proyectos y próximas acciones que esté haciendo seguimiento para la organización.
-- **(b) Prioridad relativa:** Debe compartir su juicio sobre la prioridad relativa de cualquiera de sus proyectos o próximas acciones frente a cualquier otra cosa que compita por su atención.
-- **(c) Pronóstico:** Debe proporcionar una pronósitco de cuándo espera completar cualquiera de sus proyectos o próximas acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
-- **(d) Ítems de las listas de verificación 📌[checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como socio de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
-- **(e) Métricas📌:** Debe compartir las métricas que recopile en sus roles o como socio/a de la organización. Si se le solicita, debe continuar compartiendo estas métricas con regularidad, hasta que determine que ya no son útiles.
-- **(f) Novedades de progreso:** Debe compartir un resumen del progreso que ha realizado en sus roles o hacia cualquiera de sus proyectos desde la última actualización que compartió. Si se le solicita, debe continuar compartiendo estas actualizaciones con regularidad, hasta que determine que ya no son útiles.
-- **(g) Otra información:** Debe compartir cualquier otra información que esté disponible para usted y que no cause daño al compartirla.
+- **(a) Proyectos & Próximas-acciones:** Debe compartir todos los proyectos y próximas-acciones para los que esté haciendo seguimiento para la organización.
+- **(b) Prioridad relativa:** Debe compartir su juicio sobre la prioridad relativa de cualquiera de sus proyectos o próximas-acciones frente a cualquier otra cosa que compita por su atención.
+- **(c) Pronóstico:** Debe proporcionar una pronósitco de cuándo espera completar cualquiera de sus proyectos o próximas-acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
+- **(d) Ítems de las listas de verificación [checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como Socio/a de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
+- **(e) Métricas:** Debe compartir las métricas que recopile en sus roles o como Socio de la organización. Si se le solicita, debe continuar compartiendo estas métricas con regularidad, hasta que determine que ya no son útiles.
+- **(f) Updates de progreso [poner al día sobre el progreso]:** Debe compartir un resumen del progreso que ha realizado en sus roles o hacia cualquiera de sus proyectos desde la última actualización que compartió. Si se le solicita, debe continuar compartiendo estas novedades con regularidad, hasta que determine que ya no son útiles.
+- **(g) Otra información:** Debe compartir cualquier otra información que tenga disponible y que no cause daño al compartirla.
 
 ### 2.2 Deber de procesamiento
 
-Como socio/a, tiene el deber de procesar rápidamente los mensajes y solicitudes de los líderes de roles en la organización, de la siguiente manera:
+Como Socio, tiene el deber de procesar rápidamente los mensajes y solicitudes de los Líderes de Roles en la organización, de la siguiente manera:
 
-- **(a) Solicitudes de clarificación:** Otros pueden pedirle que aclare los próximos pasos para cualquiera de sus proyectos o para cualquier responsabilidad de sus roles. Luego debe determinar y comunicar una próxima acción para hacerlo avanzar, si hay alguna que pueda tomar. Si no las hay, debe compartir a qué está esperando antes de poder realizar una próxima acción.
-- **(b) Solicitudes de proyectos y próximas acciones:** Otros pueden pedirle que emprenda una próxima acción o un proyecto específico. Debe aceptarlo y realizar un seguimiento si cree que tendría sentido trabajarlo en uno de sus roles o como socio de la organización, al menos en ausencia de prioridades en competencia. Si no lo hace, debe explicar su razonamiento o sugerir otra cosa que crea que cumplirá con el objetivo del solicitante.
-- **(c) Solicitudes para impactar el dominio:** Otros pueden solicitar tener efecto en un dominio controlado por uno de sus roles. Debe permitir el impacto si no ve ninguna razón por la que reducirá su capacidad para cumplir el propósito o las responsabilidades de su rol. Si ve ese motivo, debe explicárselo al solicitante.
+- **(a) Peticiones de aclaración:** Otros pueden pedirle que aclare los próximos pasos para cualquiera de sus proyectos o para cualquier responsabilidad de sus roles. Luego debe determinar y comunicar una próxima acción para hacerlo avanzar, si hay alguna que pueda tomar. Si no las hay, debe compartir a qué está esperando antes de poder realizar una próxima acción.
+- **(b) Peticiones de proyectos y próximas acciones:** Otros pueden pedirle que emprenda una próxima acción o un proyecto específico. Debe aceptarlo y realizar un seguimiento si cree que tendría sentido trabajarlo en uno de sus roles o como Socio de la organización, al menos en ausencia de prioridades en competencia. Si no lo hace, debe explicar su razonamiento o sugerir otra cosa que crea que cumplirá con el objetivo del solicitante.
+- **(c) Peticiones para impactar el dominio:** Otros pueden solicitar tener efecto en un dominio controlado por uno de sus roles. Debe permitir el impacto si no ve ninguna razón por la que reducirá su capacidad para cumplir el propósito o las responsabilidades de su rol. Si ve ese motivo, debe explicárselo al solicitante.
 
 ### 2.3 Deber de priorización
 
-Como socio/a, tiene el deber de priorizar su atención de acuerdo con lo siguiente:
+Como Socio, tiene el deber de priorizar su atención de acuerdo con lo siguiente:
 
 - **(a) Procesamiento:** Por lo general, debe priorizar el procesamiento de mensajes entrantes a sus roles de otros líderes de roles sobre la ejecución de sus propias próximas acciones. Sin embargo, puede retrasar el procesamiento de mensajes hasta que pueda procesarlos por lotes en un momento conveniente, siempre que su procesamiento aún sea oportuno. El procesamiento incluye participar en cualquier deber en este artículo y luego compartir cómo procesó el mensaje cuando lo solicite. El procesamiento no incluye la ejecución de próximas acciones o proyectos que registre.
-- **(b) Reuniones:** Debe priorizar la asistencia a cualquier reunión definida en esta Constitución sobre la ejecución de sus propias próximas acciones, pero solo cuando otro/a socio/a solicite explícitamente esta priorización para una reunión específica. Aún así, puede rechazar la solicitud si ya tiene planes programados para la hora de la reunión.
+- **(b) Reuniones:** Debe priorizar la asistencia a cualquier reunión definida en esta Constitución sobre la ejecución de sus propias próximas acciones, pero solo cuando otro/a Socio solicite explícitamente esta priorización para una reunión específica. Aún así, puede rechazar la solicitud si ya tiene planes programados para la hora de la reunión.
 - **(c) Prioridades del círculo:** Al elegir en qué trabajar en un rol, debe considerar cualquier estrategia oficial o priorización relativa de ese rol, de cualquier círculo que tenga ese rol y de cualquier supercírculo del mismo. Luego debe tratar estas prioridades oficiales como más importantes para la Organización que sus propias prioridades individuales o su propio juicio sobre las prioridades de la Organización. Las prioridades oficiales de un círculo son aquellas definidas por un Líder de Círculo, o por cualquier otro rol o proceso con la autoridad para resolver conflictos de prioridad y definir estrategias para ese círculo.
 - **(d) Fechas límite:** Si la gobernanza o cualquier estrategia oficial o priorización de un círculo incluye una fecha límite que especifica cuándo se debe hacer algo, nadie puede interpretar eso como un mandato para cumplir con esa fecha límite, independientemente del impacto de hacerlo. En cambio, debe interpretar eso como una priorización oficial de cualquier acción necesaria para cumplir con ese plazo sobre cualquier otra acción para ese círculo, y actuar en consecuencia. Un Líder de Círculo u otro rol o proceso con la autoridad para resolver conflictos de prioridad entre roles pueden anular esta priorización.
 
 ### 2.4 Acuerdos relacionales
 
-Como socio/a, es posible que tenga ***“acuerdos de relación”*** con otros socios. Se trata de acuerdos sobre cómo se relacionarán juntos mientras trabajen en la Organización, o sobre cómo cumplirán sus funciones generales como Socios de la Organización. Pueden agregar o aclarar los deberes en este artículo, pero no pueden entrar en conflicto con ellos.
+Como Socio, es posible que tenga ***“acuerdos de relación”*** con otros Socios. Se trata de acuerdos sobre cómo se relacionarán juntos mientras trabajen en la Organización, o sobre cómo cumplirán sus funciones generales como Socios de la Organización. Pueden agregar o aclarar los deberes en este artículo, pero no pueden entrar en conflicto con ellos.
 
-Los acuerdos relacionales deben permanecer enfocados en dar forma a los comportamientos que generalmente sustentan el trabajo; es posible que no establezcan expectativas sobre el trabajo a realizar en un rol, ni expectativas sobre cómo un/a socio/a priorizará en los diferentes roles. Además, solo pueden especificar actos concretos para realizar o restricciones de comportamiento a honrar; no pueden incluir promesas para lograr resultados específicos o incorporar cualidades abstractas.
+Los acuerdos relacionales deben permanecer enfocados en dar forma a los comportamientos que generalmente sustentan el trabajo; es posible que no establezcan expectativas sobre el trabajo a realizar en un rol, ni expectativas sobre cómo un Socio priorizará en los diferentes roles. Además, solo pueden especificar actos concretos para realizar o restricciones de comportamiento a honrar; no pueden incluir promesas para lograr resultados específicos o incorporar cualidades abstractas.
 
-Como socio/a, puede solicitar un acuerdo relacional de otro/a socio/a para sus propias preferencias personales o para un rol que desempeñe. Ese/a socio/a puede aceptar o rechazar el acuerdo de relación solicitado en función de sus propias preferencias personales. A menos que se acuerde lo contrario, cualquiera de las partes puede rescindir posteriormente el acuerdo relacional notificando a la otra parte.
+Como Socio, puede solicitar un acuerdo relacional de otro Socio para sus propias preferencias personales o para un rol que desempeñe. Ese Socio puede aceptar o rechazar el acuerdo de relación solicitado en función de sus propias preferencias personales. A menos que se acuerde lo contrario, cualquiera de las partes puede rescindir posteriormente el acuerdo relacional notificando a la otra parte.
 
-Como socio/a, tiene el deber de alinear su comportamiento con cualquier acuerdo relacional por escrito que haya realizado. Cualquiera que facilite una reunión o proceso para la Organización también puede hacer cumplir estos acuerdos relacionales durante esa reunión o proceso, siempre que no entren en conflicto con nada definido en esta Constitución.
+Como Socio, tiene el deber de alinear su comportamiento con cualquier acuerdo relacional por escrito que haya realizado. Cualquiera que facilite una reunión o proceso para la Organización también puede hacer cumplir estos acuerdos relacionales durante esa reunión o proceso, siempre que no entren en conflicto con nada definido en esta Constitución.
 
 
 ## Artículo 3: Reuniones tácticas
 
-Cualquier socio/a puede convocar una ***“reunión táctica”*** para ayudar a los socios a involucrarse en las responsabilidades y deberes propias y de los demás. Además, el Secretario de cada círculo es responsable de programar reuniones tácticas periódicas para el círculo.
+Cualquier Socio puede convocar una ***“reunión táctica”*** para ayudar a los Socio a involucrarse en las responsabilidades y deberes propias y de los demás. Además, el Secretario de cada círculo es responsable de programar reuniones tácticas periódicas para el círculo.
 
 ### 3.1 Asistencia
 
-Para las reuniones tácticas regulares convocadas por el Secretario de un círculo, se invita a todos los roles del círculo a menos que una política indique lo contrario. Para otras reuniones tácticas, el/la socio/a convocante de la reunión debe especificar los roles invitados a esa reunión. Luego, se invita a todos los socios que actúan como líderes de esos roles a asistir y representar esos roles, a menos que el convocante restrinja la invitación para incluir solo un subconjunto de líderes de roles para un rol.
+Para las reuniones tácticas regulares convocadas por el Secretario de un círculo, se invita a todos los roles del círculo a menos que una política indique lo contrario. Para otras reuniones tácticas, el Socio convocante de la reunión debe especificar los roles invitados a esa reunión. Luego, se invita a todos los Socios que actúan como líderes de esos roles a asistir y representar esos roles, a menos que el convocante restrinja la invitación para incluir solo un subconjunto de líderes de roles para un rol.
 
 ### 3.2 Proceso de reunión
 
-El Facilitador de un círculo es responsable de facilitar las reuniones tácticas regulares del círculo, y su Secretario es responsable de registrar y publicar los resultados de las reuniones tácticas. Para las reuniones tácticas convocadas por alguien que no sea el Secretario del círculo, el/la socio/a que convoque una reunión táctica debe facilitarla y anotar sus resultados, o designar a otra persona voluntaria o rol apropiado para hacerlo.
+El Facilitador de un círculo es responsable de facilitar las reuniones tácticas regulares del círculo, y su Secretario es responsable de registrar y publicar los resultados de las reuniones tácticas. Para las reuniones tácticas convocadas por alguien que no sea el Secretario del círculo, el Socio que convoque una reunión táctica debe facilitarla y anotar sus resultados, o designar a otra persona voluntaria o rol apropiado para hacerlo.
 
 A menos que una política indique lo contrario, la persona que facilita la reunión debe utilizar el siguiente proceso:
 
@@ -190,7 +190,7 @@ A menos que una política indique lo contrario, la persona que facilita la reuni
 - **(c) Revisión de métricas:** Cada participante comparte las métricas asociadas sus roles sobre las que informa regularmente en la reunión.
 - **(d) Novedades de progreso:** Cada participante destaca el progreso en cualquier proyecto u otra iniciativa sobre la que informan regularmente para sus roles en la reunión. Los participantes solo pueden compartir el progreso realizado desde un informe anterior, y no el estado general de ningún trabajo.
 - **(e) Generar la agenda:** Los participantes elaboran una agenda de temas para procesar dentro de la reunión. Cada participante puede agregar tantos puntos de la agenda como desee proporcionando una etiqueta corta para cada uno, sin que se permitan explicaciones ni discusiones. Los participantes pueden agregar más puntos a la agenda después de este paso, entre el procesamiento de cualquier elemento de la agenda existente.
-- **(f) Procesar puntos:** Para procesar cada punto de la agenda, el/la propietario/a del punto de la agenda puede hacer solicitudes a otro participante, ya sea en la capacidad general de ese participante como socio/a, o en un rol que el participante representa en la reunión. Sin embargo, las solicitudes para un rol solo se pueden realizar al servicio de un rol que el solicitante representa en la reunión. La persona que facilita la reunión administra el tiempo permitido para cada punto de la agenda para dejar espacio para toda la agenda, y puede interrumpir el procesamiento de cualquier punto después de su debido tiempo de reunión.
+- **(f) Procesar puntos:** Para procesar cada punto de la agenda, el/la propietario/a del punto de la agenda puede hacer solicitudes a otro participante, ya sea en la capacidad general de ese participante como Socio, o en un rol que el participante representa en la reunión. Sin embargo, las solicitudes para un rol solo se pueden realizar al servicio de un rol que el solicitante representa en la reunión. La persona que facilita la reunión administra el tiempo permitido para cada punto de la agenda para dejar espacio para toda la agenda, y puede interrumpir el procesamiento de cualquier punto después de su debido tiempo de reunión.
 - **(g) Ronda de cierre:** Cada participante a su vez comparte una reflexión final sobre la reunión. No se permiten respuestas.
 
 Una política de un círculo puede especificar un proceso alternativo o enmendar este proceso predeterminado para reuniones tácticas convocadas por cualquiera de los roles del círculo.
@@ -222,17 +222,17 @@ Cuando necesite permiso para afectar un dominio, puede obtenerlo de quien contro
 
 No puede gastar dinero u otros activos a menos que primero esté autorizado para hacerlo. Esta autorización debe provenir de un rol que ya tenga el control de esos recursos con finalidad de su uso. Cuenta como gasto si dispone de una propiedad significativa de la Organización o limita significativamente alguno de sus derechos.
 
-Para obtener la autorización para gastar, debe anunciar su intención de gastar por escrito al rol del que solicita autorización. Debe compartir este anuncio donde todos los socios que actúan como líderes de ese rol o dentro de ese rol normalmente lo verán. Su anuncio debe incluir el motivo del gasto y la función que desempeñará. Luego debe esperar un tiempo razonable para permitir la consideración y las respuestas. Cualquier destinatario de su anuncio puede escalar la petición de gasto para una consideración adicional, y usted no puede continuar con el gasto si se traslada a un nivel superior. Sin embargo, un líder del rol del que está solicitando autorización puede revertir una escalada, al igual que la persona que la elevó. Una vez que haya pasado un tiempo razonable y no se produzcan escaladas, su rol obtiene el control de esos recursos. Puede gastarlos para el propósito indicado o autorizar a otros a hacerlo. El rol del que obtuvo esta autorización también pierde este control; sin embargo, un líder de ese rol puede revocar la autorización en cualquier momento.
+Para obtener la autorización para gastar, debe anunciar su intención de gastar por escrito al rol del que solicita autorización. Debe compartir este anuncio donde todos los Socio que actúan como líderes de ese rol o dentro de ese rol normalmente lo verán. Su anuncio debe incluir el motivo del gasto y la función que desempeñará. Luego debe esperar un tiempo razonable para permitir la consideración y las respuestas. Cualquier destinatario de su anuncio puede escalar la petición de gasto para una consideración adicional, y usted no puede continuar con el gasto si se traslada a un nivel superior. Sin embargo, un líder del rol del que está solicitando autorización puede revertir una escalada, al igual que la persona que la elevó. Una vez que haya pasado un tiempo razonable y no se produzcan escaladas, su rol obtiene el control de esos recursos. Puede gastarlos para el propósito indicado o autorizar a otros a hacerlo. El rol del que obtuvo esta autorización también pierde este control; sin embargo, un líder de ese rol puede revocar la autorización en cualquier momento.
 
 Una política puede cambiar este proceso de cualquier manera o autorizar directamente a un Rol para controlar el gasto de los recursos del Círculo.
 
 ### 4.2 Autoridad de interpretación
 
-Como socio/a, puede usar su juicio razonable para interpretar esta Constitución y cualquier cosa bajo su autoridad. Además, puede interpretar cómo se aplican en cualquier situación específica que enfrente y actuar en función de sus interpretaciones. Sin embargo, debe interpretar toda la gobernanza en el contexto del propósito y responsabilidades del círculo que lo contiene, y dentro de cualquier resolución de interpretación oficial de ese círculo o cualquier súper-círculo del mismo. No puede utilizar interpretaciones que entren en conflicto con ese contexto o esas normas.
+Como Socio, puede usar su juicio razonable para interpretar esta Constitución y cualquier cosa bajo su autoridad. Además, puede interpretar cómo se aplican en cualquier situación específica que enfrente y actuar en función de sus interpretaciones. Sin embargo, debe interpretar toda la gobernanza en el contexto del propósito y responsabilidades del círculo que lo contiene, y dentro de cualquier resolución de interpretación oficial de ese círculo o cualquier súper-círculo del mismo. No puede utilizar interpretaciones que entren en conflicto con ese contexto o esas normas.
 
 #### 4.2.1 Conflictos de interpretación
 
-Como socio/a, su interpretación de esta Constitución y la gobernanza de la Organización a veces puede entrar en conflicto con la de otro/a socio/a. Cuando eso suceda, cualquiera de las partes puede pedirle al Secretario de cualquier círculo afectado que decida qué interpretación utilizar, y el/la Secretario es responsable de interpretar la Constitución y todo lo que esté bajo su autoridad cuando lo solicite. Después de que un Secretario responde, todos deben alinearse con la decisión de ese Secretario hasta que el texto o contexto relevante cambie.
+Como Socio, su interpretación de esta Constitución y la gobernanza de la Organización a veces puede entrar en conflicto con la de otro Socio. Cuando eso suceda, cualquiera de las partes puede pedirle al Secretario de cualquier círculo afectado que decida qué interpretación utilizar, y el/la Secretario es responsable de interpretar la Constitución y todo lo que esté bajo su autoridad cuando lo solicite. Después de que un Secretario responde, todos deben alinearse con la decisión de ese Secretario hasta que el texto o contexto relevante cambie.
 
 Después de pronunciarse sobre una interpretación, un Secretario puede publicar la decisión y la lógica detrás de ella. Si se publica, el Secretario de ese círculo y cualquier círculo contenido deben intentar alinearse con esa lógica en cualquier fallo futuro. Sin embargo, un Secretario aún puede contradecirlo una vez que una nueva circunstancia apremiante haga que la lógica sea obsoleta.
 
@@ -240,11 +240,11 @@ Puede apelar la interpretación de un Secretario ante el Secretario de cualquier
 
 #### 4.2.2 Derogando gobernanza inválida
 
-Cualquier socio/a puede solicitar al Secretario de un círculo que se pronuncie sobre la validez de cualquier gobernanza dentro de ese círculo o cualquier sub-círculo del mismo. Si el Secretario concluye que viola las reglas de esta Constitución, el Secretario debe eliminarlo de los registros del Círculo. Después de hacerlo, el Secretario debe comunicar rápidamente lo que eliminó y por qué a todos los socios que desempeñan roles dentro de ese círculo.
+Cualquier Socio puede solicitar al Secretario de un círculo que se pronuncie sobre la validez de cualquier gobernanza dentro de ese círculo o cualquier sub-círculo del mismo. Si el Secretario concluye que viola las reglas de esta Constitución, el Secretario debe eliminarlo de los registros del Círculo. Después de hacerlo, el Secretario debe comunicar rápidamente lo que eliminó y por qué a todos los Socio que desempeñan roles dentro de ese círculo.
 
 ### 4.3 Iniciativa individual
 
-Como socio/a, en algunos casos está autorizado a tomar ***“iniciativa individual”*** actuando más allá de la autoridad de sus roles o infringiendo las reglas de esta Constitución.
+Como Socio, en algunos casos está autorizado a tomar ***“iniciativa individual”*** actuando más allá de la autoridad de sus roles o infringiendo las reglas de esta Constitución.
 
 #### 4.3.1 Situaciones permitidas
 
@@ -395,7 +395,7 @@ El Secretario del círculo es responsable de programar sus reuniones de gobernan
 
 Todos los miembros de un círculo pueden participar en sus reuniones de gobernanza. El Facilitador en funciones y el Secretario también pueden participar incluso si no son miembros del círculo. En ese caso, se convierten en miembros temporales del círculo durante la reunión.
 
-Como Representante de un círculo, puede invitar a cualquier socio a unirse a la reunión de gobernanza de cualquier círculo que contenga inmediatamente su círculo. Solo puede extender esta invitación a un socio a la vez, y solo para ayudar en el procesamiento de una tensión específica que afecte al círculo que representa. También debe sentir esta tensión y creer que tiene sentido procesarla en el círculo. Su invitado se convierte en miembro temporal del círculo durante la reunión o hasta que retire la invitación. Su invitado puede representar a su círculo junto con usted en la reunión, pero solo mientras procesa esa tensión específica.
+Como Representante de un círculo, puede invitar a cualquier Socio a unirse a la reunión de gobernanza de cualquier círculo que contenga inmediatamente su círculo. Solo puede extender esta invitación a un Socio a la vez, y solo para ayudar en el procesamiento de una tensión específica que afecte al círculo que representa. También debe sentir esta tensión y creer que tiene sentido procesarla en el círculo. Su invitado se convierte en miembro temporal del círculo durante la reunión o hasta que retire la invitación. Su invitado puede representar a su círculo junto con usted en la reunión, pero solo mientras procesa esa tensión específica.
 
 Más allá de lo anterior, nadie más puede participar en las reuniones de gobernanza de un círculo.
 
