@@ -137,19 +137,19 @@ Como Socio o Socia, tiene el deber de brindar transparencia a los Líderes de Ro
 
 - **(a) Proyectos & Próximas-acciones:** Debe compartir todos los proyectos y próximas-acciones para los que esté haciendo seguimiento para la organización.
 - **(b) Prioridad relativa:** Debe compartir su juicio sobre la prioridad relativa de cualquiera de sus proyectos o próximas-acciones frente a cualquier otra cosa que compita por su atención.
-- **(c) Pronóstico:** Debe proporcionar una pronósitco de cuándo espera completar cualquiera de sus proyectos o próximas-acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
+- **(c) Previsión:** Debe proporcionar una previsión de cuándo espera completar cualquiera de sus proyectos o próximas-acciones. Una estimación aproximada es suficiente, considerando su contexto y prioridades actuales. No se requiere análisis ni planificación detallados, y este pronóstico no es un compromiso de ninguna manera. A menos que la gobernanza diga lo contrario, no tiene la obligación de realizar un seguimiento del pronóstico o hacer un seguimiento con el destinatario si cambia.
 - **(d) Ítems de las listas de verificación [checklists]:** Debe verificar la terminación de cualquier acción recurrente que realice para sus roles o como Socio/a de la organización. Si se le solicita, debe continuar compartiendo estas verificaciones con regularidad, hasta que crea que ya no son útiles.
 - **(e) Métricas:** Debe compartir las métricas que recopile en sus roles o como Socio de la organización. Si se le solicita, debe continuar compartiendo estas métricas con regularidad, hasta que determine que ya no son útiles.
-- **(f) Updates de progreso [poner al día sobre el progreso]:** Debe compartir un resumen del progreso que ha realizado en sus roles o hacia cualquiera de sus proyectos desde la última actualización que compartió. Si se le solicita, debe continuar compartiendo estas novedades con regularidad, hasta que determine que ya no son útiles.
+- **(f) Compartir las avances de proyectos [poner al día sobre el progreso]:** Debe compartir un resumen del progreso que ha realizado en sus roles o hacia cualquiera de sus proyectos desde la última actualización que compartió. Si se le solicita, debe continuar compartiendo estas novedades con regularidad, hasta que determine que ya no son útiles.
 - **(g) Otra información:** Debe compartir cualquier otra información que tenga disponible y que no cause daño al compartirla.
 
-### 2.2 Deber de procesamiento
+### 2.2 Deber de tratamiento📌
 
 Como Socio, tiene el deber de procesar rápidamente los mensajes y peticiones de los Líderes de Roles en la organización, de la siguiente manera:
 
 - **(a) Peticiones de aclaración:** Otros pueden pedirle que aclare los próximos pasos para cualquiera de sus proyectos o para cualquier responsabilidad de sus roles. Luego debe determinar y comunicar una próxima acción para hacerlo avanzar, si hay alguna que pueda tomar. Si no las hay, debe compartir a qué está esperando antes de poder realizar una próxima acción.
 - **(b) Peticiones de proyectos y próximas-acciones:** Otros pueden pedirle que emprenda una próxima-acción o un proyecto específico. Debe aceptarlo y realizar un seguimiento si cree que tendría sentido trabajarlo en uno de sus roles o como Socio de la organización, al menos en ausencia de prioridades en competencia. Si no lo hace, debe explicar su razonamiento o sugerir otra cosa que crea que cumplirá con el objetivo del peticionario.
-- **(c) Peticiones para impactar el dominio:** Otros pueden solicitar tener efecto en un dominio controlado por uno de sus roles. Debe permitir el impacto si no ve ninguna razón por la que reducirá su capacidad para cumplir con el propósito o las responsabilidades de su rol. Si ve ese motivo, debe explicárselo a la persona que hace la petición.
+- **(c) Peticiones para impactar el dominio:** Otros pueden solicitar tener efecto (actuar en 📌) en un dominio controlado por uno de sus roles. Debe permitir el impacto si no ve ninguna razón por la que reducirá su capacidad para cumplir con el propósito o las responsabilidades de su rol. Si ve ese motivo, debe explicárselo a la persona que hace la petición.
 
 ### 2.3 Deber de priorización
 
