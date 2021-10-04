@@ -122,7 +122,7 @@ Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí 
 
 Un círculo no puede modificar el propósito de su rol Líder de Círculo ni eliminar el rol en sí.
 
-Un círculo puede añadir responsabilidades o dominios al rol Líder de Círculo y luego eliminar estos añadidura. Sin embargo, todas las añadiduras se aplican automáticamente al rol Líder de Círculo de cada subcírculo también, de forma recursiva. Un círculo no puede añadir responsabilidades o dominios solo a su propio rol de Líder de Círculo, o cualquier otro que sea relevante dentro de ese círculo.
+Un círculo puede añadir responsabilidades o dominios al rol Líder de Círculo y luego eliminar estas añadiduras. Sin embargo, todas las añadiduras se aplican automáticamente al rol Líder de Círculo de cada subcírculo también, de forma recursiva. Un círculo no puede añadir responsabilidades o dominios solo a su propio rol de Líder de Círculo, o cualquier otro que sea relevante dentro de ese círculo.
 
 Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol Líder de Círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol Líder de Círculo del círculo, mientras la delegación permanezca vigente.
 
