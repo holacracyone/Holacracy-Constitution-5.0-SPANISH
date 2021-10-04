@@ -8,7 +8,7 @@ Todas las políticas y sistemas existentes que la Organización tuviera en vigor
 
 La Organización puede designar a otros ***“Socios”*** además de los ratificadores para ayudar con su gobierno y operaciones, siempre que dichos Socios también hayan acordado cumplir con todos los términos relevantes de esta Constitución. Dentro de esa restricción, la Organización puede definir cómo otorga o elimina el estatus de "Socio" o "Socia", a menos que los ratificadores especifiquen lo contrario. Los ratificadores pueden especificar los Socios iniciales para la Organización.
 
-Cada Socio puede confiar en las autoridades otorgadas por esta Constitución en la medida en que los ratificadores tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un Socio provienen de esta Constitución y los resultados de sus procesos, y de cualquier deber legal que el Socio tenga para con la Organización y mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un Socio, ni ningún dictado emitido fuera de la autoridad otorgada por esta Constitución. 
+Cada Socio puede basarse en las autoridades otorgadas por esta Constitución en la medida en que los ratificadores tenían tales autoridades antes de adoptarla. Todas las responsabilidades y limitaciones de un Socio provienen de esta Constitución y de los resultados de sus procesos, y de cualquier deber legal que el Socio tenga para con la Organización mientras actúa en su nombre. Ninguna expectativa o restricción implícita tiene poder sobre un Socio, ni ningún dictado emitido fuera de la autoridad otorgada por esta Constitución. 
 
 
 ## Artículo 1: Estructura organizativa
@@ -21,19 +21,19 @@ Una definición de rol consta de un nombre descriptivo y uno o más de los sigui
 
 - **(a)** un ***“propósito”***, que es una capacidad, potencial o meta que el rol perseguirá o expresará.
 - **(b)** uno o más ***“dominios”***, que son activos, procesos u otras cosas que el rol puede controlar y regular exclusivamente como propiedad propia, para su propósito.
-- **(c)** una o más ***“responsabilidades”***, que son actividades en curso que el rol administrará y llevará a cabo al servicio de otros roles o para apoyar su propio propósito.
+- **(c)** una o más ***“responsabilidad”***, que son actividades en curso que el rol administrará, por las que rendirá cuentas y llevará a cabo al servicio de otros roles o para apoyar su propio propósito.
 
-Un rol también puede contener reglas (en adelante ***“políticas”***), que son concesiones o restricciones de autoridad, o reglas especiales que se aplican dentro de ese rol.
+Un rol también puede contener ***“políticas”***, que son concesiones o restricciones de autoridad, o reglas especiales que se aplican dentro de ese rol.
 
 ### 1.2 Responsabilidades de los líderes de roles
 
-Como líder de un rol, tiene las siguientes responsabilidades:
+Como líder de un rol, tiene las siguientes accountabilities:
 
-#### 1.2.1 Procesamiento de tensiones
+#### 1.2.1 Tratamiento de tensiones
 
-Usted es responsable de comparar la expresión actual del propósito y responsabilidades de su rol con su visión de su potencial ideal, para identificar brechas entre los dos (cada brecha es una ***"tensión"***). Usted es responsable de intentar resolver esas tensiones.
+Usted es responsable de comparar la expresión actual del propósito y las responsabilidades de su rol con su visión de su potencial ideal, para identificar brechas entre los dos (cada brecha es una ***"tensión"***). Usted es responsable de intentar resolver esas tensiones.
 
-#### 1.2.2 Procesamiento del propósito y las responsabilidades
+#### 1.2.2 Tratamiento del propósito y las responsabilidades
 
 Usted es responsable de considerar de forma periódica cómo implementar el propósito de su rol y cada responsabilidad, definiendo:
 
@@ -42,15 +42,15 @@ Usted es responsable de considerar de forma periódica cómo implementar el prop
 
 #### 1.2.3 Desglose de proyectos
 
-Usted es responsable de definir regularmente las próximas acciones para cada uno de los proyectos activos de su rol.
+Usted es responsable de definir regularmente las próximas-acciones para cada uno de los proyectos activos de su rol.
 
 #### 1.2.4 Seguimiento de proyectos, próximas acciones y tensiones
 
 Usted es responsable de anotar y hacer el seguimiento de todos los proyectos y próximas-acciones para su rol en listas escritas. También debe realizar un seguimiento de las tensiones que desea resolver, al menos hasta que las procese en proyectos o próximas acciones. También es responsable de revisar y actualizar periódicamente estas listas, para mantenerlas como una fuente confiable del trabajo potencial del rol.
 
-#### 1.2.5 Ejecución de próximas acciones
+#### 1.2.5 Ejecución de próximas-acciones
 
-Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas-acciones que podría tomar y de ejecutar las que agreguen más valor a la Organización.
+Siempre que tenga tiempo disponible para actuar en un rol, usted es responsable de considerar las próximas-acciones que podría tomar y de ejecutar las que añadan más valor a la Organización.
 
 ### 1.3 Círculos
 
@@ -60,13 +60,13 @@ Un ***“círculo”*** es un contenedor para organizar roles y políticas en to
 
 El interior de cada rol es un círculo. Este círculo puede tener sus propios roles y políticas para dividir y organizar su trabajo. Esto no se aplica a los roles definidos por defecto en esta Constitución, que no pueden desglosarse más.
 
-El círculo interno de un rol se considera un ***“subcírculo”*** del círculo más amplio que tiene el rol, mientras que ese círculo más amplio es su ***“supercírculo”***.
+El círculo interno de un rol se considera un ***“subcírculo”*** del círculo más amplio que contiene el rol, mientras que ese círculo más amplio es su ***“supercírculo”***.
 
 #### 1.3.2 Delegar dominios
 
 Cuando un círculo otorga un dominio a uno de sus roles, cualquier líder de rol para ese rol puede controlar ese dominio en nombre del círculo. Un círculo solo puede otorgar dominios a los roles que se encuentren dentro de los propios dominios del círculo, o que solo sean relevantes dentro de sus propios procesos internos. 
 
-Una vez que un rol controla un dominio, puede crear políticas que rijan ese dominio dentro de su propio gobierno. Sin embargo, el círculo que delegó el dominio se reserva el derecho de definir sus propias políticas que gobiernan ese dominio también. Cualquiera de estas políticas reemplaza a las definidas por el rol en caso de conflicto.
+Una vez que un rol controla un dominio, puede crear políticas que rijan ese dominio dentro de su propio gobierno. Sin embargo, el círculo que delegó el dominio se reserva el derecho de definir sus propias políticas para gobernarr ese dominio también. Cualquiera de estas políticas reemplaza a las definidas por el rol en caso de conflicto.
 
 El otorgar un dominio a un rol no delega ningún derecho que tenga el círculo para controlar el gasto de dinero o activos, a menos que se especifique explícitamente.
 
@@ -80,9 +80,9 @@ Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro
 
 Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súpercírculo del mismo lo invita.
 
-Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede agregar asignaciones al rol y luego cambiar lo que agrega. Sin embargo, no puede eliminar el rol ni cambiar nada agregado por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que agregue. La autoridad para agregar o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
+Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede añadir asignaciones al rol y luego cambiar lo que añade. Sin embargo, no puede eliminar el rol ni cambiar nada añadido por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que añada. La autoridad para añadir o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
 
-Un círculo puede desvincular un rol eliminando la política que lo invitó a vincularse, o mediante otro mecanismo definido en esa política. Un rol también puede optar por eliminarse a sí mismo de un círculo al que esté vinculado, a menos que una política dentro del supercírculo del rol o que actúe sobre él indique lo contrario. Una vez desvinculado de un círculo, cualquier gobernanza agregada al rol por ese círculo se elimina automáticamente.
+Un círculo puede desvincular un rol eliminando la política que lo invitó a vincularse, o mediante otro mecanismo definido en esa política. Un rol también puede optar por eliminarse a sí mismo de un círculo al que esté vinculado, a menos que una política dentro del supercírculo del rol o que actúe sobre él indique lo contrario. Una vez desvinculado de un círculo, cualquier gobernanza añadida al rol por ese círculo se elimina automáticamente.
 
 #### 1.3.5 Roles de Facilitador y Secretario
 
@@ -124,7 +124,7 @@ Siempre que la gobernanza fuera del círculo haga referencia al círculo en sí 
 
 Un círculo no puede modificar el propósito de su rol Líder de Círculo ni eliminar el rol en sí.
 
-Un círculo puede agregar responsabilidades o dominios al rol Líder de Círculo y luego eliminar estas adiciones. Sin embargo, todas las adiciones se aplican automáticamente al rol Líder de Círculo de cada subcírculo también, de forma recursiva. Un círculo no puede agregar responsabilidades o dominios solo a su propio rol de Líder de Círculo, o cualquier otro que sea relevante dentro de ese círculo.
+Un círculo puede añadir responsabilidades o dominios al rol Líder de Círculo y luego eliminar estoa añadidos. Sin embargo, todos los añadidos se aplican automáticamente al rol Líder de Círculo de cada subcírculo también, de forma recursiva. Un círculo no puede añadir responsabilidades o dominios solo a su propio rol de Líder de Círculo, o cualquier otro que sea relevante dentro de ese círculo.
 
 Un círculo puede eliminar cualquier responsabilidad, dominio, autoridad o función de su propio rol Líder de Círculo. Puede hacer esto colocándolos en otro rol en el círculo o definiendo un medio alternativo para representarlos. Hacer esto elimina automáticamente la autoridad o elemento relevante del rol Líder de Círculo del círculo, mientras la delegación permanezca vigente.
 
