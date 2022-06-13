@@ -80,7 +80,7 @@ Los ratificadores pueden definir una estructura inicial y otra gobernanza dentro
 
 Un rol puede vincularse a otro círculo si una política de ese otro círculo o cualquier súpercírculo del mismo lo invita.
 
-Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede añadir asignaciones al rol y luego cambiar lo que añade. Sin embargo, no puede eliminar el rol ni cambiar nada añadido por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que añada. La autoridad para añadir o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
+Una vez vinculado a otro círculo, un rol se considera parte de la gobernanza de ese otro círculo. Ese círculo puede añadir gobernanza al rol y luego cambiar lo que añade. Sin embargo, no puede eliminar el rol ni cambiar nada añadido por otro círculo, y otro círculo no puede cambiar ni eliminar nada de lo que añada este. La autoridad para añadir o cambiar asignaciones en el rol permanece en su círculo de origen. El círculo al que se vincula un rol no se considera su supercírculo, ni el círculo interno del rol se considera su subcírculo.
 
 Un círculo puede desvincular un rol eliminando la política que lo invitó a vincularse, o mediante otro mecanismo definido en esa política. Un rol también puede optar por eliminarse a sí mismo de un círculo al que esté vinculado, a menos que una política dentro del supercírculo del rol o que actúe sobre él indique lo contrario. Una vez desvinculado de un círculo, cualquier gobernanza añadida al rol por ese círculo se elimina automáticamente.
 
